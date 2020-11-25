@@ -1,0 +1,81 @@
+{
+    "metadata": {
+        "resultset": {
+            "count": 38862,
+            "limit": 10,
+            "offset": 1
+        }
+    },
+    "results": [
+        {
+            "datacoverage": 0.9958,
+            "id": "CITY:AE000001",
+            "maxdate": "2020-11-18",
+            "mindate": "1983-01-01",
+            "name": "Abu Dhabi, AE"
+        },
+        {
+            "datacoverage": 0.9991,
+            "id": "CITY:AE000002",
+            "maxdate": "2020-11-18",
+            "mindate": "1944-03-01",
+            "name": "Ajman, AE"
+        },
+        {
+            "datacoverage": 0.9991,
+            "id": "CITY:AE000003",
+            "maxdate": "2020-11-18",
+            "mindate": "1944-03-01",
+            "name": "Dubai, AE"
+        },
+        {
+            "datacoverage": 0.9991,
+            "id": "CITY:AE000006",
+            "maxdate": "2020-11-18",
+            "mindate": "1944-03-01",
+            "name": "Sharjah, AE"
+        },
+        {
+            "datacoverage": 0.9969,
+            "id": "CITY:AF000007",
+            "maxdate": "2020-11-18",
+            "mindate": "1966-03-02",
+            "name": "Kabul, AF"
+        },
+        {
+            "datacoverage": 1,
+            "id": "CITY:AF000008",
+            "maxdate": "2020-11-18",
+            "mindate": "1973-01-02",
+            "name": "Kandahar, AF"
+        },
+        {
+            "datacoverage": 1,
+            "id": "CITY:AG000001",
+            "maxdate": "2020-11-18",
+            "mindate": "1877-04-01",
+            "name": "Algiers, AG"
+        },
+        {
+            "datacoverage": 1,
+            "id": "CITY:AG000002",
+            "maxdate": "2020-11-18",
+            "mindate": "1909-11-01",
+            "name": "Annaba, AG"
+        },
+        {
+            "datacoverage": 0.9993,
+            "id": "CITY:AG000003",
+            "maxdate": "2020-11-18",
+            "mindate": "1973-04-01",
+            "name": "Batna, AG"
+        },
+        {
+            "datacoverage": 1,
+            "id": "CITY:AG000004",
+            "maxdate": "2020-11-18",
+            "mindate": "1957-01-01",
+            "name": "Bechar, AG"
+        }
+    ]
+}
