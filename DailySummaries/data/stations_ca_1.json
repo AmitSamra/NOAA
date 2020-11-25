@@ -19,6 +19,17 @@
             "name": "SAN FRANCISCO INTERNATIONAL AIRPORT, CA US"
         },
         {
+            "datacoverage": 0.06,
+            "elevation": 45.7,
+            "elevationUnit": "METERS",
+            "id": "WBAN:23272",
+            "latitude": 37.7705,
+            "longitude": -122.4269,
+            "maxdate": "2020-08-16",
+            "mindate": "1945-01-01",
+            "name": "SAN FRANCISCO DOWNTOWN, CA US"
+        },
+        {
             "datacoverage": 1,
             "elevation": 45.7,
             "elevationUnit": "METERS",
@@ -38,17 +49,6 @@
             "longitude": -122.4269,
             "maxdate": "2020-11-13",
             "mindate": "1921-01-01",
-            "name": "SAN FRANCISCO DOWNTOWN, CA US"
-        },
-        {
-            "datacoverage": 0.06,
-            "elevation": 45.7,
-            "elevationUnit": "METERS",
-            "id": "WBAN:23272",
-            "latitude": 37.7705,
-            "longitude": -122.4269,
-            "maxdate": "2020-08-16",
-            "mindate": "1945-01-01",
             "name": "SAN FRANCISCO DOWNTOWN, CA US"
         },
         {
@@ -107,17 +107,6 @@
             "name": "SAN FRANCISCO 1.1 SW, CA US"
         },
         {
-            "datacoverage": 0.9924,
-            "elevation": 296,
-            "elevationUnit": "METERS",
-            "id": "COOP:047759",
-            "latitude": 34.28333,
-            "longitude": -118.46667,
-            "maxdate": "1974-03-01",
-            "mindate": "1931-01-01",
-            "name": "SAN FERNANDO, CA US"
-        },
-        {
             "datacoverage": 0.9216,
             "elevation": 296,
             "elevationUnit": "METERS",
@@ -129,15 +118,15 @@
             "name": "SAN FERNANDO, CA US"
         },
         {
-            "datacoverage": 0.9997,
-            "elevation": 381,
+            "datacoverage": 0.9924,
+            "elevation": 296,
             "elevationUnit": "METERS",
-            "id": "GHCND:USC00047762",
-            "latitude": 34.3133,
-            "longitude": -118.4927,
-            "maxdate": "1951-08-31",
-            "mindate": "1948-07-01",
-            "name": "SAN FERNANDO PH 3, CA US"
+            "id": "COOP:047759",
+            "latitude": 34.28333,
+            "longitude": -118.46667,
+            "maxdate": "1974-03-01",
+            "mindate": "1931-01-01",
+            "name": "SAN FERNANDO, CA US"
         },
         {
             "datacoverage": 0.9547,
@@ -148,6 +137,17 @@
             "longitude": -118.4927,
             "maxdate": "2012-12-01",
             "mindate": "1948-01-01",
+            "name": "SAN FERNANDO PH 3, CA US"
+        },
+        {
+            "datacoverage": 0.9997,
+            "elevation": 381,
+            "elevationUnit": "METERS",
+            "id": "GHCND:USC00047762",
+            "latitude": 34.3133,
+            "longitude": -118.4927,
+            "maxdate": "1951-08-31",
+            "mindate": "1948-07-01",
             "name": "SAN FERNANDO PH 3, CA US"
         },
         {
@@ -184,17 +184,6 @@
             "name": "SAN FELIPE HIGHWAY STATION, CA US"
         },
         {
-            "datacoverage": 0.9873,
-            "elevation": 442,
-            "elevationUnit": "METERS",
-            "id": "COOP:047753",
-            "latitude": 35,
-            "longitude": -119.18333,
-            "maxdate": "1966-02-01",
-            "mindate": "1959-10-01",
-            "name": "SAN EMIGDIO RANCH, CA US"
-        },
-        {
             "datacoverage": 0.9993,
             "elevation": 442,
             "elevationUnit": "METERS",
@@ -202,6 +191,17 @@
             "latitude": 35,
             "longitude": -119.18333,
             "maxdate": "1966-01-31",
+            "mindate": "1959-10-01",
+            "name": "SAN EMIGDIO RANCH, CA US"
+        },
+        {
+            "datacoverage": 0.9873,
+            "elevation": 442,
+            "elevationUnit": "METERS",
+            "id": "COOP:047753",
+            "latitude": 35,
+            "longitude": -119.18333,
+            "maxdate": "1966-02-01",
             "mindate": "1959-10-01",
             "name": "SAN EMIGDIO RANCH, CA US"
         },
@@ -272,17 +272,6 @@
             "name": "SAN DIEGO WEATHER BUREAU OFFICE, CA US"
         },
         {
-            "datacoverage": 0.9496,
-            "elevation": 4.3,
-            "elevationUnit": "METERS",
-            "id": "COOP:047741",
-            "latitude": 32.76536,
-            "longitude": -117.2315,
-            "maxdate": "2015-11-01",
-            "mindate": "1999-05-01",
-            "name": "SAN DIEGO SEAWORLD, CA US"
-        },
-        {
             "datacoverage": 1,
             "elevation": 4.3,
             "elevationUnit": "METERS",
@@ -290,6 +279,17 @@
             "latitude": 32.76536,
             "longitude": -117.2315,
             "maxdate": "2020-11-21",
+            "mindate": "1999-05-01",
+            "name": "SAN DIEGO SEAWORLD, CA US"
+        },
+        {
+            "datacoverage": 0.9496,
+            "elevation": 4.3,
+            "elevationUnit": "METERS",
+            "id": "COOP:047741",
+            "latitude": 32.76536,
+            "longitude": -117.2315,
+            "maxdate": "2015-11-01",
             "mindate": "1999-05-01",
             "name": "SAN DIEGO SEAWORLD, CA US"
         },
@@ -341,17 +341,6 @@
             "datacoverage": 1,
             "elevation": 4.6,
             "elevationUnit": "METERS",
-            "id": "GHCND:USW00023188",
-            "latitude": 32.7336,
-            "longitude": -117.1831,
-            "maxdate": "2020-11-22",
-            "mindate": "1939-01-01",
-            "name": "SAN DIEGO INTERNATIONAL AIRPORT, CA US"
-        },
-        {
-            "datacoverage": 1,
-            "elevation": 4.6,
-            "elevationUnit": "METERS",
             "id": "COOP:047740",
             "latitude": 32.7336,
             "longitude": -117.1831,
@@ -368,6 +357,17 @@
             "longitude": -117.1831,
             "maxdate": "2020-11-22",
             "mindate": "1942-01-01",
+            "name": "SAN DIEGO INTERNATIONAL AIRPORT, CA US"
+        },
+        {
+            "datacoverage": 1,
+            "elevation": 4.6,
+            "elevationUnit": "METERS",
+            "id": "GHCND:USW00023188",
+            "latitude": 32.7336,
+            "longitude": -117.1831,
+            "maxdate": "2020-11-22",
+            "mindate": "1939-01-01",
             "name": "SAN DIEGO INTERNATIONAL AIRPORT, CA US"
         },
         {
@@ -393,17 +393,6 @@
             "name": "SAN DIEGO BROWN FIELD, CA US"
         },
         {
-            "datacoverage": 0.5879,
-            "elevation": 157,
-            "elevationUnit": "METERS",
-            "id": "GHCND:USW00023196",
-            "latitude": 32.57222,
-            "longitude": -116.97944,
-            "maxdate": "1961-04-30",
-            "mindate": "1945-01-01",
-            "name": "SAN DIEGO BROWN FIELD, CA US"
-        },
-        {
             "datacoverage": 1,
             "elevation": 157,
             "elevationUnit": "METERS",
@@ -412,6 +401,17 @@
             "longitude": -116.97944,
             "maxdate": "2020-11-22",
             "mindate": "2005-01-01",
+            "name": "SAN DIEGO BROWN FIELD, CA US"
+        },
+        {
+            "datacoverage": 0.5879,
+            "elevation": 157,
+            "elevationUnit": "METERS",
+            "id": "GHCND:USW00023196",
+            "latitude": 32.57222,
+            "longitude": -116.97944,
+            "maxdate": "1961-04-30",
+            "mindate": "1945-01-01",
             "name": "SAN DIEGO BROWN FIELD, CA US"
         },
         {
@@ -657,17 +657,6 @@
             "name": "SAN CLEMENTE, CA US"
         },
         {
-            "datacoverage": 0.6238,
-            "elevation": 55.5,
-            "elevationUnit": "METERS",
-            "id": "GHCND:USW00093117",
-            "latitude": 33.02333,
-            "longitude": -118.58806,
-            "maxdate": "1989-04-18",
-            "mindate": "1945-01-01",
-            "name": "SAN CLEMENTE ISLAND NAAS, CA US"
-        },
-        {
             "datacoverage": 0.59,
             "elevation": 55.5,
             "elevationUnit": "METERS",
@@ -676,6 +665,17 @@
             "longitude": -118.58806,
             "maxdate": "2020-11-22",
             "mindate": "1943-06-10",
+            "name": "SAN CLEMENTE ISLAND NAAS, CA US"
+        },
+        {
+            "datacoverage": 0.6238,
+            "elevation": 55.5,
+            "elevationUnit": "METERS",
+            "id": "GHCND:USW00093117",
+            "latitude": 33.02333,
+            "longitude": -118.58806,
+            "maxdate": "1989-04-18",
+            "mindate": "1945-01-01",
             "name": "SAN CLEMENTE ISLAND NAAS, CA US"
         },
         {
@@ -756,17 +756,6 @@
             "name": "SAN BERNARDINO INTERNATIONAL AIRPORT, CA US"
         },
         {
-            "datacoverage": 0.9898,
-            "elevation": 347.5,
-            "elevationUnit": "METERS",
-            "id": "COOP:047723",
-            "latitude": 34.13444,
-            "longitude": -117.25389,
-            "maxdate": "2004-08-01",
-            "mindate": "1931-01-01",
-            "name": "SAN BERNARDINO F S 226, CA US"
-        },
-        {
             "datacoverage": 1,
             "elevation": 347.5,
             "elevationUnit": "METERS",
@@ -775,6 +764,17 @@
             "longitude": -117.25389,
             "maxdate": "2010-12-31",
             "mindate": "1893-01-01",
+            "name": "SAN BERNARDINO F S 226, CA US"
+        },
+        {
+            "datacoverage": 0.9898,
+            "elevation": 347.5,
+            "elevationUnit": "METERS",
+            "id": "COOP:047723",
+            "latitude": 34.13444,
+            "longitude": -117.25389,
+            "maxdate": "2004-08-01",
+            "mindate": "1931-01-01",
             "name": "SAN BERNARDINO F S 226, CA US"
         },
         {
@@ -858,22 +858,22 @@
             "datacoverage": 0.9998,
             "elevation": 323.1,
             "elevationUnit": "METERS",
-            "id": "COOP:047714",
+            "id": "GHCND:USC00047714",
             "latitude": 36.01667,
             "longitude": -121.25,
-            "maxdate": "1971-12-01",
-            "mindate": "1959-08-01",
+            "maxdate": "1971-12-31",
+            "mindate": "1959-01-01",
             "name": "SAN ANTONIO MISSION, CA US"
         },
         {
             "datacoverage": 0.9998,
             "elevation": 323.1,
             "elevationUnit": "METERS",
-            "id": "GHCND:USC00047714",
+            "id": "COOP:047714",
             "latitude": 36.01667,
             "longitude": -121.25,
-            "maxdate": "1971-12-31",
-            "mindate": "1959-01-01",
+            "maxdate": "1971-12-01",
+            "mindate": "1959-08-01",
             "name": "SAN ANTONIO MISSION, CA US"
         },
         {
@@ -888,17 +888,6 @@
             "name": "SAN ANTONIO DAM, CA US"
         },
         {
-            "datacoverage": 0.9773,
-            "elevation": 729.1,
-            "elevationUnit": "METERS",
-            "id": "COOP:047711",
-            "latitude": 34.16667,
-            "longitude": -117.66667,
-            "maxdate": "1967-08-01",
-            "mindate": "1931-01-01",
-            "name": "SAN ANTONIO CN MOUTH, CA US"
-        },
-        {
             "datacoverage": 0.9471,
             "elevation": 729.1,
             "elevationUnit": "METERS",
@@ -907,6 +896,17 @@
             "longitude": -117.66667,
             "maxdate": "1967-08-31",
             "mindate": "1917-03-01",
+            "name": "SAN ANTONIO CN MOUTH, CA US"
+        },
+        {
+            "datacoverage": 0.9773,
+            "elevation": 729.1,
+            "elevationUnit": "METERS",
+            "id": "COOP:047711",
+            "latitude": 34.16667,
+            "longitude": -117.66667,
+            "maxdate": "1967-08-01",
+            "mindate": "1931-01-01",
             "name": "SAN ANTONIO CN MOUTH, CA US"
         },
         {
@@ -943,17 +943,6 @@
             "name": "SAN ANSELMO 0.4 NE, CA US"
         },
         {
-            "datacoverage": 0.8757,
-            "elevation": 253,
-            "elevationUnit": "METERS",
-            "id": "COOP:047701",
-            "latitude": 38.16667,
-            "longitude": -120.66667,
-            "maxdate": "1950-05-01",
-            "mindate": "1931-01-01",
-            "name": "SAN ANDREAS 2 S, CA US"
-        },
-        {
             "datacoverage": 0.9657,
             "elevation": 253,
             "elevationUnit": "METERS",
@@ -973,6 +962,17 @@
             "longitude": -120.66667,
             "maxdate": "1977-06-30",
             "mindate": "1948-07-01",
+            "name": "SAN ANDREAS 2 S, CA US"
+        },
+        {
+            "datacoverage": 0.8757,
+            "elevation": 253,
+            "elevationUnit": "METERS",
+            "id": "COOP:047701",
+            "latitude": 38.16667,
+            "longitude": -120.66667,
+            "maxdate": "1950-05-01",
+            "mindate": "1931-01-01",
             "name": "SAN ANDREAS 2 S, CA US"
         },
         {
@@ -1053,17 +1053,6 @@
             "name": "SALT SPRINGS PH, CA US"
         },
         {
-            "datacoverage": 1,
-            "elevation": 80.5,
-            "elevationUnit": "METERS",
-            "id": "GHCND:USC00047681",
-            "latitude": 34.5686,
-            "longitude": -120.4083,
-            "maxdate": "2020-09-30",
-            "mindate": "1948-01-01",
-            "name": "SALSIPUEDES GAGING STATION, CA US"
-        },
-        {
             "datacoverage": 0.977,
             "elevation": 80.5,
             "elevationUnit": "METERS",
@@ -1075,15 +1064,15 @@
             "name": "SALSIPUEDES GAGING STATION, CA US"
         },
         {
-            "datacoverage": 0.9898,
-            "elevation": 13.7,
+            "datacoverage": 1,
+            "elevation": 80.5,
             "elevationUnit": "METERS",
-            "id": "COOP:047668",
-            "latitude": 36.6594,
-            "longitude": -121.6663,
-            "maxdate": "2015-11-01",
-            "mindate": "1958-05-01",
-            "name": "SALINAS NUMBER 2, CA US"
+            "id": "GHCND:USC00047681",
+            "latitude": 34.5686,
+            "longitude": -120.4083,
+            "maxdate": "2020-09-30",
+            "mindate": "1948-01-01",
+            "name": "SALSIPUEDES GAGING STATION, CA US"
         },
         {
             "datacoverage": 1,
@@ -1094,6 +1083,17 @@
             "longitude": -121.6663,
             "maxdate": "2018-05-31",
             "mindate": "1958-01-01",
+            "name": "SALINAS NUMBER 2, CA US"
+        },
+        {
+            "datacoverage": 0.9898,
+            "elevation": 13.7,
+            "elevationUnit": "METERS",
+            "id": "COOP:047668",
+            "latitude": 36.6594,
+            "longitude": -121.6663,
+            "maxdate": "2015-11-01",
+            "mindate": "1958-05-01",
             "name": "SALINAS NUMBER 2, CA US"
         },
         {
@@ -1119,17 +1119,6 @@
             "name": "SALINAS DAM, CA US"
         },
         {
-            "datacoverage": 1,
-            "elevation": 22.6,
-            "elevationUnit": "METERS",
-            "id": "WBAN:23233",
-            "latitude": 36.6636,
-            "longitude": -121.6081,
-            "maxdate": "2020-11-22",
-            "mindate": "1941-08-05",
-            "name": "SALINAS AIRPORT, CA US"
-        },
-        {
             "datacoverage": 0.9461,
             "elevation": 22.6,
             "elevationUnit": "METERS",
@@ -1149,6 +1138,17 @@
             "longitude": -121.6081,
             "maxdate": "2020-11-22",
             "mindate": "1878-02-01",
+            "name": "SALINAS AIRPORT, CA US"
+        },
+        {
+            "datacoverage": 1,
+            "elevation": 22.6,
+            "elevationUnit": "METERS",
+            "id": "WBAN:23233",
+            "latitude": 36.6636,
+            "longitude": -121.6081,
+            "maxdate": "2020-11-22",
+            "mindate": "1941-08-05",
             "name": "SALINAS AIRPORT, CA US"
         },
         {
@@ -1210,17 +1210,6 @@
             "datacoverage": 1,
             "elevation": 189,
             "elevationUnit": "METERS",
-            "id": "COOP:047661",
-            "latitude": 37.83333,
-            "longitude": -122.1,
-            "maxdate": "1981-07-01",
-            "mindate": "1942-12-01",
-            "name": "SAINT MARYS COLLEGE, CA US"
-        },
-        {
-            "datacoverage": 1,
-            "elevation": 189,
-            "elevationUnit": "METERS",
             "id": "GHCND:USC00047661",
             "latitude": 37.83333,
             "longitude": -122.1,
@@ -1229,15 +1218,15 @@
             "name": "SAINT MARYS COLLEGE, CA US"
         },
         {
-            "datacoverage": 0.8944,
-            "elevation": 46,
+            "datacoverage": 1,
+            "elevation": 189,
             "elevationUnit": "METERS",
-            "id": "GHCND:USC00047656",
-            "latitude": 39.71667,
-            "longitude": -122,
-            "maxdate": "1963-01-31",
-            "mindate": "1907-11-01",
-            "name": "SAINT JOHN, CA US"
+            "id": "COOP:047661",
+            "latitude": 37.83333,
+            "longitude": -122.1,
+            "maxdate": "1981-07-01",
+            "mindate": "1942-12-01",
+            "name": "SAINT MARYS COLLEGE, CA US"
         },
         {
             "datacoverage": 0.9948,
@@ -1251,15 +1240,15 @@
             "name": "SAINT JOHN, CA US"
         },
         {
-            "datacoverage": 1,
-            "elevation": 68.6,
+            "datacoverage": 0.8944,
+            "elevation": 46,
             "elevationUnit": "METERS",
-            "id": "GHCND:USC00047643",
-            "latitude": 38.5066,
-            "longitude": -122.4713,
-            "maxdate": "2020-08-31",
-            "mindate": "1907-01-01",
-            "name": "SAINT HELENA, CA US"
+            "id": "GHCND:USC00047656",
+            "latitude": 39.71667,
+            "longitude": -122,
+            "maxdate": "1963-01-31",
+            "mindate": "1907-11-01",
+            "name": "SAINT JOHN, CA US"
         },
         {
             "datacoverage": 0.9529,
@@ -1274,14 +1263,14 @@
         },
         {
             "datacoverage": 1,
-            "elevation": 305.1,
+            "elevation": 68.6,
             "elevationUnit": "METERS",
-            "id": "GHCND:USC00047649",
-            "latitude": 38.55,
-            "longitude": -122.38333,
-            "maxdate": "1951-09-30",
-            "mindate": "1948-07-01",
-            "name": "SAINT HELENA 6 NE, CA US"
+            "id": "GHCND:USC00047643",
+            "latitude": 38.5066,
+            "longitude": -122.4713,
+            "maxdate": "2020-08-31",
+            "mindate": "1907-01-01",
+            "name": "SAINT HELENA, CA US"
         },
         {
             "datacoverage": 0.9783,
@@ -1292,6 +1281,17 @@
             "longitude": -122.38333,
             "maxdate": "1974-12-01",
             "mindate": "1948-01-01",
+            "name": "SAINT HELENA 6 NE, CA US"
+        },
+        {
+            "datacoverage": 1,
+            "elevation": 305.1,
+            "elevationUnit": "METERS",
+            "id": "GHCND:USC00047649",
+            "latitude": 38.55,
+            "longitude": -122.38333,
+            "maxdate": "1951-09-30",
+            "mindate": "1948-07-01",
             "name": "SAINT HELENA 6 NE, CA US"
         },
         {
@@ -1317,17 +1317,6 @@
             "name": "SAINT HELENA 4 WSW, CA US"
         },
         {
-            "datacoverage": 1,
-            "elevation": 1931.5,
-            "elevationUnit": "METERS",
-            "id": "GHCND:USC00047641",
-            "latitude": 39.43167,
-            "longitude": -120.24056,
-            "maxdate": "2010-12-31",
-            "mindate": "1953-01-01",
-            "name": "SAGEHEN CREEK, CA US"
-        },
-        {
             "datacoverage": 0.9492,
             "elevation": 1931.5,
             "elevationUnit": "METERS",
@@ -1336,6 +1325,17 @@
             "longitude": -120.24056,
             "maxdate": "2007-06-01",
             "mindate": "1953-06-01",
+            "name": "SAGEHEN CREEK, CA US"
+        },
+        {
+            "datacoverage": 1,
+            "elevation": 1931.5,
+            "elevationUnit": "METERS",
+            "id": "GHCND:USC00047641",
+            "latitude": 39.43167,
+            "longitude": -120.24056,
+            "maxdate": "2010-12-31",
+            "mindate": "1953-01-01",
             "name": "SAGEHEN CREEK, CA US"
         },
         {
@@ -1361,17 +1361,6 @@
             "name": "SADDLEBACK BUTTE CALIFORNIA, CA US"
         },
         {
-            "datacoverage": 0.9993,
-            "elevation": 9.1,
-            "elevationUnit": "METERS",
-            "id": "GHCND:USP00CA0001",
-            "latitude": 38.58333,
-            "longitude": -121.50472,
-            "maxdate": "1892-12-31",
-            "mindate": "1856-01-01",
-            "name": "SACRAMENTO, CA US"
-        },
-        {
             "datacoverage": 0.95,
             "elevation": 9.1,
             "elevationUnit": "METERS",
@@ -1380,6 +1369,17 @@
             "longitude": -121.67667,
             "maxdate": "2020-11-22",
             "mindate": "1995-05-09",
+            "name": "SACRAMENTO, CA US"
+        },
+        {
+            "datacoverage": 0.9993,
+            "elevation": 9.1,
+            "elevationUnit": "METERS",
+            "id": "GHCND:USP00CA0001",
+            "latitude": 38.58333,
+            "longitude": -121.50472,
+            "maxdate": "1892-12-31",
+            "mindate": "1856-01-01",
             "name": "SACRAMENTO, CA US"
         },
         {
@@ -1419,17 +1419,6 @@
             "datacoverage": 1,
             "elevation": 23.5,
             "elevationUnit": "METERS",
-            "id": "WBAN:23208",
-            "latitude": 38.66667,
-            "longitude": -121.4,
-            "maxdate": "2020-11-22",
-            "mindate": "1939-11-09",
-            "name": "SACRAMENTO MCCLELLAN AFB, CA US"
-        },
-        {
-            "datacoverage": 1,
-            "elevation": 23.5,
-            "elevationUnit": "METERS",
             "id": "GHCND:USW00023208",
             "latitude": 38.66667,
             "longitude": -121.4,
@@ -1438,15 +1427,15 @@
             "name": "SACRAMENTO MCCLELLAN AFB, CA US"
         },
         {
-            "datacoverage": 0.84,
-            "elevation": 30.2,
+            "datacoverage": 1,
+            "elevation": 23.5,
             "elevationUnit": "METERS",
-            "id": "WBAN:23206",
-            "latitude": 38.56667,
-            "longitude": -121.3,
+            "id": "WBAN:23208",
+            "latitude": 38.66667,
+            "longitude": -121.4,
             "maxdate": "2020-11-22",
-            "mindate": "1941-09-01",
-            "name": "SACRAMENTO MATHER AFB, CA US"
+            "mindate": "1939-11-09",
+            "name": "SACRAMENTO MCCLELLAN AFB, CA US"
         },
         {
             "datacoverage": 1,
@@ -1460,6 +1449,17 @@
             "name": "SACRAMENTO MATHER AFB, CA US"
         },
         {
+            "datacoverage": 0.84,
+            "elevation": 30.2,
+            "elevationUnit": "METERS",
+            "id": "WBAN:23206",
+            "latitude": 38.56667,
+            "longitude": -121.3,
+            "maxdate": "2020-11-22",
+            "mindate": "1941-09-01",
+            "name": "SACRAMENTO MATHER AFB, CA US"
+        },
+        {
             "datacoverage": 0.8993,
             "elevation": 7,
             "elevationUnit": "METERS",
@@ -1469,6 +1469,17 @@
             "maxdate": "1892-12-31",
             "mindate": "1877-06-01",
             "name": "SACRAMENTO GERRISH, CA US"
+        },
+        {
+            "datacoverage": 1,
+            "elevation": 4.6,
+            "elevationUnit": "METERS",
+            "id": "WBAN:23232",
+            "latitude": 38.5069,
+            "longitude": -121.495,
+            "maxdate": "2020-11-22",
+            "mindate": "1947-07-01",
+            "name": "SACRAMENTO EXECUTIVE AIRPORT, CA US"
         },
         {
             "datacoverage": 1,
@@ -1490,17 +1501,6 @@
             "longitude": -121.495,
             "maxdate": "2015-11-01",
             "mindate": "1948-01-01",
-            "name": "SACRAMENTO EXECUTIVE AIRPORT, CA US"
-        },
-        {
-            "datacoverage": 1,
-            "elevation": 4.6,
-            "elevationUnit": "METERS",
-            "id": "WBAN:23232",
-            "latitude": 38.5069,
-            "longitude": -121.495,
-            "maxdate": "2020-11-22",
-            "mindate": "1947-07-01",
             "name": "SACRAMENTO EXECUTIVE AIRPORT, CA US"
         },
         {
@@ -1537,14 +1537,14 @@
             "name": "SACRAMENTO 5.7 SSE, CA US"
         },
         {
-            "datacoverage": 0.995,
+            "datacoverage": 1,
             "elevation": 11.6,
             "elevationUnit": "METERS",
-            "id": "COOP:047633",
+            "id": "GHCND:USW00023271",
             "latitude": 38.5552,
             "longitude": -121.4183,
-            "maxdate": "2015-11-01",
-            "mindate": "1936-01-01",
+            "maxdate": "2020-11-17",
+            "mindate": "1877-07-01",
             "name": "SACRAMENTO 5 ESE, CA US"
         },
         {
@@ -1559,14 +1559,14 @@
             "name": "SACRAMENTO 5 ESE, CA US"
         },
         {
-            "datacoverage": 1,
+            "datacoverage": 0.995,
             "elevation": 11.6,
             "elevationUnit": "METERS",
-            "id": "GHCND:USW00023271",
+            "id": "COOP:047633",
             "latitude": 38.5552,
             "longitude": -121.4183,
-            "maxdate": "2020-11-17",
-            "mindate": "1877-07-01",
+            "maxdate": "2015-11-01",
+            "mindate": "1936-01-01",
             "name": "SACRAMENTO 5 ESE, CA US"
         },
         {
@@ -1680,17 +1680,6 @@
             "name": "RUTH CALIFORNIA, CA US"
         },
         {
-            "datacoverage": 0.7668,
-            "elevation": 1966.9,
-            "elevationUnit": "METERS",
-            "id": "COOP:047606",
-            "latitude": 37.95,
-            "longitude": -119.06667,
-            "maxdate": "1950-09-01",
-            "mindate": "1948-04-01",
-            "name": "RUSH CREEK RANCH, CA US"
-        },
-        {
             "datacoverage": 0.9991,
             "elevation": 1966.9,
             "elevationUnit": "METERS",
@@ -1699,6 +1688,17 @@
             "longitude": -119.06667,
             "maxdate": "1950-10-06",
             "mindate": "1948-01-01",
+            "name": "RUSH CREEK RANCH, CA US"
+        },
+        {
+            "datacoverage": 0.7668,
+            "elevation": 1966.9,
+            "elevationUnit": "METERS",
+            "id": "COOP:047606",
+            "latitude": 37.95,
+            "longitude": -119.06667,
+            "maxdate": "1950-09-01",
+            "mindate": "1948-04-01",
             "name": "RUSH CREEK RANCH, CA US"
         },
         {
@@ -1782,17 +1782,6 @@
             "datacoverage": 0.9998,
             "elevation": 537.1,
             "elevationUnit": "METERS",
-            "id": "COOP:043652",
-            "latitude": 37.85,
-            "longitude": -122.2,
-            "maxdate": "1960-05-01",
-            "mindate": "1943-07-01",
-            "name": "ROUND TOP, CA US"
-        },
-        {
-            "datacoverage": 0.9998,
-            "elevation": 537.1,
-            "elevationUnit": "METERS",
             "id": "GHCND:USC00043652",
             "latitude": 37.85,
             "longitude": -122.2,
@@ -1801,15 +1790,15 @@
             "name": "ROUND TOP, CA US"
         },
         {
-            "datacoverage": 0.9932,
-            "elevation": 1602.6,
+            "datacoverage": 0.9998,
+            "elevation": 537.1,
             "elevationUnit": "METERS",
-            "id": "GHCND:USR0000CROU",
-            "latitude": 41.4272,
-            "longitude": -121.4639,
-            "maxdate": "2020-11-23",
-            "mindate": "1991-03-01",
-            "name": "ROUND MOUNTAIN, CA US"
+            "id": "COOP:043652",
+            "latitude": 37.85,
+            "longitude": -122.2,
+            "maxdate": "1960-05-01",
+            "mindate": "1943-07-01",
+            "name": "ROUND TOP, CA US"
         },
         {
             "datacoverage": 0.9392,
@@ -1820,6 +1809,17 @@
             "longitude": -121.935,
             "maxdate": "2010-06-01",
             "mindate": "1970-06-01",
+            "name": "ROUND MOUNTAIN, CA US"
+        },
+        {
+            "datacoverage": 0.9932,
+            "elevation": 1602.6,
+            "elevationUnit": "METERS",
+            "id": "GHCND:USR0000CROU",
+            "latitude": 41.4272,
+            "longitude": -121.4639,
+            "maxdate": "2020-11-23",
+            "mindate": "1991-03-01",
             "name": "ROUND MOUNTAIN, CA US"
         },
         {
@@ -2021,17 +2021,6 @@
             "name": "RODEO VALLEY, CA US"
         },
         {
-            "datacoverage": 0.9571,
-            "elevation": 75.9,
-            "elevationUnit": "METERS",
-            "id": "COOP:047516",
-            "latitude": 38.8,
-            "longitude": -121.23333,
-            "maxdate": "1976-09-01",
-            "mindate": "1870-01-01",
-            "name": "ROCKLIN, CA US"
-        },
-        {
             "datacoverage": 0.9954,
             "elevation": 75.9,
             "elevationUnit": "METERS",
@@ -2040,6 +2029,17 @@
             "longitude": -121.23333,
             "maxdate": "1976-06-30",
             "mindate": "1904-01-01",
+            "name": "ROCKLIN, CA US"
+        },
+        {
+            "datacoverage": 0.9571,
+            "elevation": 75.9,
+            "elevationUnit": "METERS",
+            "id": "COOP:047516",
+            "latitude": 38.8,
+            "longitude": -121.23333,
+            "maxdate": "1976-09-01",
+            "mindate": "1870-01-01",
             "name": "ROCKLIN, CA US"
         },
         {
@@ -2109,6 +2109,17 @@
             "name": "RIVERSIDE MUNICIPAL AIRPORT, CA US"
         },
         {
+            "datacoverage": 1,
+            "elevation": 256,
+            "elevationUnit": "METERS",
+            "id": "GHCND:USC00047470",
+            "latitude": 33.9511,
+            "longitude": -117.388,
+            "maxdate": "2020-11-02",
+            "mindate": "1893-01-01",
+            "name": "RIVERSIDE FIRE STATION 3, CA US"
+        },
+        {
             "datacoverage": 0.9765,
             "elevation": 256,
             "elevationUnit": "METERS",
@@ -2121,14 +2132,14 @@
         },
         {
             "datacoverage": 1,
-            "elevation": 256,
+            "elevation": 300.5,
             "elevationUnit": "METERS",
-            "id": "GHCND:USC00047470",
-            "latitude": 33.9511,
-            "longitude": -117.388,
-            "maxdate": "2020-11-02",
-            "mindate": "1893-01-01",
-            "name": "RIVERSIDE FIRE STATION 3, CA US"
+            "id": "GHCND:USC00047473",
+            "latitude": 33.96694,
+            "longitude": -117.36139,
+            "maxdate": "2010-12-31",
+            "mindate": "1948-07-01",
+            "name": "RIVERSIDE CITRUS EXPERIMENTAL, CA US"
         },
         {
             "datacoverage": 0.9258,
@@ -2139,17 +2150,6 @@
             "longitude": -117.36139,
             "maxdate": "2009-11-01",
             "mindate": "1948-01-01",
-            "name": "RIVERSIDE CITRUS EXPERIMENTAL, CA US"
-        },
-        {
-            "datacoverage": 1,
-            "elevation": 300.5,
-            "elevationUnit": "METERS",
-            "id": "GHCND:USC00047473",
-            "latitude": 33.96694,
-            "longitude": -117.36139,
-            "maxdate": "2010-12-31",
-            "mindate": "1948-07-01",
             "name": "RIVERSIDE CITRUS EXPERIMENTAL, CA US"
         },
         {
@@ -2219,17 +2219,6 @@
             "name": "RIVERSIDE 0.0 W, CA US"
         },
         {
-            "datacoverage": 0.8621,
-            "elevation": 11.9,
-            "elevationUnit": "METERS",
-            "id": "COOP:047446",
-            "latitude": 38.15,
-            "longitude": -121.7,
-            "maxdate": "1977-06-01",
-            "mindate": "1931-01-01",
-            "name": "RIO VISTA, CA US"
-        },
-        {
             "datacoverage": 0.8845,
             "elevation": 11.9,
             "elevationUnit": "METERS",
@@ -2238,6 +2227,17 @@
             "longitude": -121.7,
             "maxdate": "1977-05-31",
             "mindate": "1893-01-01",
+            "name": "RIO VISTA, CA US"
+        },
+        {
+            "datacoverage": 0.8621,
+            "elevation": 11.9,
+            "elevationUnit": "METERS",
+            "id": "COOP:047446",
+            "latitude": 38.15,
+            "longitude": -121.7,
+            "maxdate": "1977-06-01",
+            "mindate": "1931-01-01",
             "name": "RIO VISTA, CA US"
         },
         {
@@ -2252,17 +2252,6 @@
             "name": "RIO VISTA 8.5 S, CA US"
         },
         {
-            "datacoverage": 0.9846,
-            "elevation": 6.1,
-            "elevationUnit": "METERS",
-            "id": "COOP:047414",
-            "latitude": 37.9191,
-            "longitude": -122.3772,
-            "maxdate": "2015-11-01",
-            "mindate": "1950-12-01",
-            "name": "RICHMOND, CA US"
-        },
-        {
             "datacoverage": 1,
             "elevation": 6.1,
             "elevationUnit": "METERS",
@@ -2274,15 +2263,15 @@
             "name": "RICHMOND, CA US"
         },
         {
-            "datacoverage": 0.9999,
-            "elevation": 3,
+            "datacoverage": 0.9846,
+            "elevation": 6.1,
             "elevationUnit": "METERS",
-            "id": "COOP:047416",
-            "latitude": 37.91667,
-            "longitude": -122.33333,
-            "maxdate": "1959-09-01",
-            "mindate": "1955-08-01",
-            "name": "RICHMOND FIELD STATION, CA US"
+            "id": "COOP:047414",
+            "latitude": 37.9191,
+            "longitude": -122.3772,
+            "maxdate": "2015-11-01",
+            "mindate": "1950-12-01",
+            "name": "RICHMOND, CA US"
         },
         {
             "datacoverage": 0.9999,
@@ -2292,6 +2281,17 @@
             "latitude": 37.91667,
             "longitude": -122.33333,
             "maxdate": "1959-09-30",
+            "mindate": "1955-08-01",
+            "name": "RICHMOND FIELD STATION, CA US"
+        },
+        {
+            "datacoverage": 0.9999,
+            "elevation": 3,
+            "elevationUnit": "METERS",
+            "id": "COOP:047416",
+            "latitude": 37.91667,
+            "longitude": -122.33333,
+            "maxdate": "1959-09-01",
             "mindate": "1955-08-01",
             "name": "RICHMOND FIELD STATION, CA US"
         },
@@ -2450,17 +2450,6 @@
             "name": "REDWOOD CREEK O KANE, CA US"
         },
         {
-            "datacoverage": 0.9784,
-            "elevation": 9.4,
-            "elevationUnit": "METERS",
-            "id": "COOP:047339",
-            "latitude": 37.4767,
-            "longitude": -122.2386,
-            "maxdate": "2015-11-01",
-            "mindate": "1931-01-01",
-            "name": "REDWOOD CITY, CA US"
-        },
-        {
             "datacoverage": 1,
             "elevation": 9.4,
             "elevationUnit": "METERS",
@@ -2469,6 +2458,17 @@
             "longitude": -122.2386,
             "maxdate": "2020-11-22",
             "mindate": "1906-01-01",
+            "name": "REDWOOD CITY, CA US"
+        },
+        {
+            "datacoverage": 0.9784,
+            "elevation": 9.4,
+            "elevationUnit": "METERS",
+            "id": "COOP:047339",
+            "latitude": 37.4767,
+            "longitude": -122.2386,
+            "maxdate": "2015-11-01",
+            "mindate": "1931-01-01",
             "name": "REDWOOD CITY, CA US"
         },
         {
@@ -2538,17 +2538,6 @@
             "name": "REDWAY 1.8 WSW, CA US"
         },
         {
-            "datacoverage": 1,
-            "elevation": 43.3,
-            "elevationUnit": "METERS",
-            "id": "COOP:047326",
-            "latitude": 33.8342,
-            "longitude": -118.3759,
-            "maxdate": "2015-11-01",
-            "mindate": "2014-01-01",
-            "name": "REDONDO BEACH, CA US"
-        },
-        {
             "datacoverage": 0.9992,
             "elevation": 43.3,
             "elevationUnit": "METERS",
@@ -2557,6 +2546,17 @@
             "longitude": -118.3759,
             "maxdate": "2020-11-07",
             "mindate": "2012-01-01",
+            "name": "REDONDO BEACH, CA US"
+        },
+        {
+            "datacoverage": 1,
+            "elevation": 43.3,
+            "elevationUnit": "METERS",
+            "id": "COOP:047326",
+            "latitude": 33.8342,
+            "longitude": -118.3759,
+            "maxdate": "2015-11-01",
+            "mindate": "2014-01-01",
             "name": "REDONDO BEACH, CA US"
         },
         {
@@ -2626,17 +2626,6 @@
             "name": "REDDING MUNICIPAL AIRPORT, CA US"
         },
         {
-            "datacoverage": 0.66,
-            "elevation": 151.5,
-            "elevationUnit": "METERS",
-            "id": "WBAN:24257",
-            "latitude": 40.5175,
-            "longitude": -122.2986,
-            "maxdate": "2020-11-22",
-            "mindate": "1944-09-01",
-            "name": "REDDING MUNICIPAL AIRPORT, CA US"
-        },
-        {
             "datacoverage": 1,
             "elevation": 151.5,
             "elevationUnit": "METERS",
@@ -2648,15 +2637,15 @@
             "name": "REDDING MUNICIPAL AIRPORT, CA US"
         },
         {
-            "datacoverage": 0.9896,
-            "elevation": 143.3,
+            "datacoverage": 0.66,
+            "elevation": 151.5,
             "elevationUnit": "METERS",
-            "id": "COOP:047300",
-            "latitude": 40.55,
-            "longitude": -122.38333,
-            "maxdate": "1987-04-01",
-            "mindate": "1979-05-01",
-            "name": "REDDING FIRE STATION 4, CA US"
+            "id": "WBAN:24257",
+            "latitude": 40.5175,
+            "longitude": -122.2986,
+            "maxdate": "2020-11-22",
+            "mindate": "1944-09-01",
+            "name": "REDDING MUNICIPAL AIRPORT, CA US"
         },
         {
             "datacoverage": 0.9583,
@@ -2667,6 +2656,17 @@
             "longitude": -122.38333,
             "maxdate": "1987-04-30",
             "mindate": "1979-01-01",
+            "name": "REDDING FIRE STATION 4, CA US"
+        },
+        {
+            "datacoverage": 0.9896,
+            "elevation": 143.3,
+            "elevationUnit": "METERS",
+            "id": "COOP:047300",
+            "latitude": 40.55,
+            "longitude": -122.38333,
+            "maxdate": "1987-04-01",
+            "mindate": "1979-05-01",
             "name": "REDDING FIRE STATION 4, CA US"
         },
         {
@@ -2915,22 +2915,22 @@
             "datacoverage": 1,
             "elevation": 432.2,
             "elevationUnit": "METERS",
-            "id": "WBAN:04222",
+            "id": "GHCND:USW00004222",
             "latitude": 40.6507,
             "longitude": -122.6068,
-            "maxdate": "2020-11-19",
-            "mindate": "2003-03-26",
+            "maxdate": "2020-11-22",
+            "mindate": "2003-03-01",
             "name": "REDDING 12 WNW, CA US"
         },
         {
             "datacoverage": 1,
             "elevation": 432.2,
             "elevationUnit": "METERS",
-            "id": "GHCND:USW00004222",
+            "id": "WBAN:04222",
             "latitude": 40.6507,
             "longitude": -122.6068,
-            "maxdate": "2020-11-22",
-            "mindate": "2003-03-01",
+            "maxdate": "2020-11-19",
+            "mindate": "2003-03-26",
             "name": "REDDING 12 WNW, CA US"
         },
         {
@@ -3011,14 +3011,14 @@
             "name": "RED BLUFF NUMBER 2, CA US"
         },
         {
-            "datacoverage": 0.9406,
+            "datacoverage": 1,
             "elevation": 107.6,
             "elevationUnit": "METERS",
-            "id": "COOP:047292",
+            "id": "GHCND:USW00024216",
             "latitude": 40.1519,
             "longitude": -122.2536,
-            "maxdate": "2015-11-01",
-            "mindate": "1948-07-01",
+            "maxdate": "2020-11-22",
+            "mindate": "1892-01-01",
             "name": "RED BLUFF MUNICIPAL AIRPORT, CA US"
         },
         {
@@ -3033,14 +3033,14 @@
             "name": "RED BLUFF MUNICIPAL AIRPORT, CA US"
         },
         {
-            "datacoverage": 1,
+            "datacoverage": 0.9406,
             "elevation": 107.6,
             "elevationUnit": "METERS",
-            "id": "GHCND:USW00024216",
+            "id": "COOP:047292",
             "latitude": 40.1519,
             "longitude": -122.2536,
-            "maxdate": "2020-11-22",
-            "mindate": "1892-01-01",
+            "maxdate": "2015-11-01",
+            "mindate": "1948-07-01",
             "name": "RED BLUFF MUNICIPAL AIRPORT, CA US"
         },
         {
@@ -3275,17 +3275,6 @@
             "name": "RAYMOND 6.8 NE, CA US"
         },
         {
-            "datacoverage": 0.9552,
-            "elevation": 390.1,
-            "elevationUnit": "METERS",
-            "id": "COOP:047273",
-            "latitude": 37.35,
-            "longitude": -119.86667,
-            "maxdate": "1965-12-01",
-            "mindate": "1962-03-01",
-            "name": "RAYMOND 10 N, CA US"
-        },
-        {
             "datacoverage": 0.7366,
             "elevation": 390.1,
             "elevationUnit": "METERS",
@@ -3293,6 +3282,17 @@
             "latitude": 37.35,
             "longitude": -119.86667,
             "maxdate": "1965-04-30",
+            "mindate": "1962-03-01",
+            "name": "RAYMOND 10 N, CA US"
+        },
+        {
+            "datacoverage": 0.9552,
+            "elevation": 390.1,
+            "elevationUnit": "METERS",
+            "id": "COOP:047273",
+            "latitude": 37.35,
+            "longitude": -119.86667,
+            "maxdate": "1965-12-01",
             "mindate": "1962-03-01",
             "name": "RAYMOND 10 N, CA US"
         },
@@ -3484,17 +3484,6 @@
             "name": "RANCHO BERNARDO 0.5SE, CA US"
         },
         {
-            "datacoverage": 0.9706,
-            "elevation": 1253.9,
-            "elevationUnit": "METERS",
-            "id": "COOP:047244",
-            "latitude": 33.23333,
-            "longitude": -116.53333,
-            "maxdate": "1970-12-01",
-            "mindate": "1942-07-01",
-            "name": "RANCHITA, CA US"
-        },
-        {
             "datacoverage": 0.9406,
             "elevation": 1253.9,
             "elevationUnit": "METERS",
@@ -3503,6 +3492,17 @@
             "longitude": -116.53333,
             "maxdate": "1970-12-31",
             "mindate": "1948-07-01",
+            "name": "RANCHITA, CA US"
+        },
+        {
+            "datacoverage": 0.9706,
+            "elevation": 1253.9,
+            "elevationUnit": "METERS",
+            "id": "COOP:047244",
+            "latitude": 33.23333,
+            "longitude": -116.53333,
+            "maxdate": "1970-12-01",
+            "mindate": "1942-07-01",
             "name": "RANCHITA, CA US"
         },
         {
@@ -3539,14 +3539,14 @@
             "name": "RAMONA SPAULDING, CA US"
         },
         {
-            "datacoverage": 0.4345,
+            "datacoverage": 0.952,
             "elevation": 448.1,
             "elevationUnit": "METERS",
-            "id": "GHCND:USC00047226",
+            "id": "COOP:047228",
             "latitude": 33.0113,
             "longitude": -116.908,
-            "maxdate": "1951-04-30",
-            "mindate": "1906-11-01",
+            "maxdate": "2008-09-01",
+            "mindate": "1974-02-01",
             "name": "RAMONA FIRE DEPARTMENT, CA US"
         },
         {
@@ -3561,6 +3561,17 @@
             "name": "RAMONA FIRE DEPARTMENT, CA US"
         },
         {
+            "datacoverage": 0.4345,
+            "elevation": 448.1,
+            "elevationUnit": "METERS",
+            "id": "GHCND:USC00047226",
+            "latitude": 33.0113,
+            "longitude": -116.908,
+            "maxdate": "1951-04-30",
+            "mindate": "1906-11-01",
+            "name": "RAMONA FIRE DEPARTMENT, CA US"
+        },
+        {
             "datacoverage": 1,
             "elevation": 448.1,
             "elevationUnit": "METERS",
@@ -3569,17 +3580,6 @@
             "longitude": -116.908,
             "maxdate": "2010-12-31",
             "mindate": "1974-01-01",
-            "name": "RAMONA FIRE DEPARTMENT, CA US"
-        },
-        {
-            "datacoverage": 0.952,
-            "elevation": 448.1,
-            "elevationUnit": "METERS",
-            "id": "COOP:047228",
-            "latitude": 33.0113,
-            "longitude": -116.908,
-            "maxdate": "2008-09-01",
-            "mindate": "1974-02-01",
             "name": "RAMONA FIRE DEPARTMENT, CA US"
         },
         {
@@ -3660,17 +3660,6 @@
             "name": "QUINCY, CA US"
         },
         {
-            "datacoverage": 0.6522,
-            "elevation": 1113.1,
-            "elevationUnit": "METERS",
-            "id": "COOP:047197",
-            "latitude": 39.98333,
-            "longitude": -120.95,
-            "maxdate": "1981-06-01",
-            "mindate": "1979-08-01",
-            "name": "QUINCY USFS HELIPORT, CA US"
-        },
-        {
             "datacoverage": 0.6319,
             "elevation": 1113.1,
             "elevationUnit": "METERS",
@@ -3679,6 +3668,17 @@
             "longitude": -120.95,
             "maxdate": "1981-03-31",
             "mindate": "1979-09-01",
+            "name": "QUINCY USFS HELIPORT, CA US"
+        },
+        {
+            "datacoverage": 0.6522,
+            "elevation": 1113.1,
+            "elevationUnit": "METERS",
+            "id": "COOP:047197",
+            "latitude": 39.98333,
+            "longitude": -120.95,
+            "maxdate": "1981-06-01",
+            "mindate": "1979-08-01",
             "name": "QUINCY USFS HELIPORT, CA US"
         },
         {
@@ -3748,17 +3748,6 @@
             "name": "PRIEST VALLEY, CA US"
         },
         {
-            "datacoverage": 0.0541,
-            "elevation": 170.7,
-            "elevationUnit": "METERS",
-            "id": "GHCND:USC00047123",
-            "latitude": 33.8903,
-            "longitude": -117.6453,
-            "maxdate": "2013-03-31",
-            "mindate": "1948-07-01",
-            "name": "PRADO DAM, CA US"
-        },
-        {
             "datacoverage": 1,
             "elevation": 170.7,
             "elevationUnit": "METERS",
@@ -3767,6 +3756,17 @@
             "longitude": -117.6453,
             "maxdate": "2013-12-20",
             "mindate": "1948-01-01",
+            "name": "PRADO DAM, CA US"
+        },
+        {
+            "datacoverage": 0.0541,
+            "elevation": 170.7,
+            "elevationUnit": "METERS",
+            "id": "GHCND:USC00047123",
+            "latitude": 33.8903,
+            "longitude": -117.6453,
+            "maxdate": "2013-03-31",
+            "mindate": "1948-07-01",
             "name": "PRADO DAM, CA US"
         },
         {
@@ -3880,17 +3880,6 @@
             "name": "POTTERS SAWMILL, CA US"
         },
         {
-            "datacoverage": 0.9932,
-            "elevation": 310.3,
-            "elevationUnit": "METERS",
-            "id": "COOP:047109",
-            "latitude": 39.3619,
-            "longitude": -123.1286,
-            "maxdate": "2015-11-01",
-            "mindate": "1931-01-01",
-            "name": "POTTER VALLEY POWERHOUSE, CA US"
-        },
-        {
             "datacoverage": 1,
             "elevation": 310.3,
             "elevationUnit": "METERS",
@@ -3899,6 +3888,17 @@
             "longitude": -123.1286,
             "maxdate": "2020-11-22",
             "mindate": "1937-09-01",
+            "name": "POTTER VALLEY POWERHOUSE, CA US"
+        },
+        {
+            "datacoverage": 0.9932,
+            "elevation": 310.3,
+            "elevationUnit": "METERS",
+            "id": "COOP:047109",
+            "latitude": 39.3619,
+            "longitude": -123.1286,
+            "maxdate": "2015-11-01",
+            "mindate": "1931-01-01",
             "name": "POTTER VALLEY POWERHOUSE, CA US"
         },
         {
@@ -4001,17 +4001,6 @@
             "name": "POSEY 3 E, CA US"
         },
         {
-            "datacoverage": 0.9696,
-            "elevation": 1478.3,
-            "elevationUnit": "METERS",
-            "id": "COOP:047085",
-            "latitude": 39.8053,
-            "longitude": -120.4719,
-            "maxdate": "2015-11-01",
-            "mindate": "1931-01-01",
-            "name": "PORTOLA, CA US"
-        },
-        {
             "datacoverage": 1,
             "elevation": 1478.3,
             "elevationUnit": "METERS",
@@ -4020,6 +4009,17 @@
             "longitude": -120.4719,
             "maxdate": "2020-11-23",
             "mindate": "1915-01-01",
+            "name": "PORTOLA, CA US"
+        },
+        {
+            "datacoverage": 0.9696,
+            "elevation": 1478.3,
+            "elevationUnit": "METERS",
+            "id": "COOP:047085",
+            "latitude": 39.8053,
+            "longitude": -120.4719,
+            "maxdate": "2015-11-01",
+            "mindate": "1931-01-01",
             "name": "PORTOLA, CA US"
         },
         {
@@ -4056,17 +4056,6 @@
             "name": "PORTOLA HILLS 1.4 E, CA US"
         },
         {
-            "datacoverage": 1,
-            "elevation": 1473.1,
-            "elevationUnit": "METERS",
-            "id": "GHCND:USC00047088",
-            "latitude": 39.8,
-            "longitude": -120.48333,
-            "maxdate": "1951-09-30",
-            "mindate": "1948-07-01",
-            "name": "PORTOLA 2, CA US"
-        },
-        {
             "datacoverage": 0.956,
             "elevation": 1473.1,
             "elevationUnit": "METERS",
@@ -4079,14 +4068,14 @@
         },
         {
             "datacoverage": 1,
-            "elevation": 119.8,
+            "elevation": 1473.1,
             "elevationUnit": "METERS",
-            "id": "GHCND:USC00047077",
-            "latitude": 36.06778,
-            "longitude": -119.02,
-            "maxdate": "2010-12-31",
-            "mindate": "1902-06-01",
-            "name": "PORTERVILLE, CA US"
+            "id": "GHCND:USC00047088",
+            "latitude": 39.8,
+            "longitude": -120.48333,
+            "maxdate": "1951-09-30",
+            "mindate": "1948-07-01",
+            "name": "PORTOLA 2, CA US"
         },
         {
             "datacoverage": 0.9989,
@@ -4097,6 +4086,17 @@
             "longitude": -119.02,
             "maxdate": "2004-06-01",
             "mindate": "1931-01-01",
+            "name": "PORTERVILLE, CA US"
+        },
+        {
+            "datacoverage": 1,
+            "elevation": 119.8,
+            "elevationUnit": "METERS",
+            "id": "GHCND:USC00047077",
+            "latitude": 36.06778,
+            "longitude": -119.02,
+            "maxdate": "2010-12-31",
+            "mindate": "1902-06-01",
             "name": "PORTERVILLE, CA US"
         },
         {
@@ -4133,17 +4133,6 @@
             "name": "PORT HUENEME 1.4 NNW, CA US"
         },
         {
-            "datacoverage": 0.9999,
-            "elevation": 14.9,
-            "elevationUnit": "METERS",
-            "id": "COOP:047070",
-            "latitude": 38.01667,
-            "longitude": -122.01667,
-            "maxdate": "1975-09-01",
-            "mindate": "1946-05-01",
-            "name": "PORT CHICAGO NAVAL D, CA US"
-        },
-        {
             "datacoverage": 1,
             "elevation": 14.9,
             "elevationUnit": "METERS",
@@ -4152,6 +4141,17 @@
             "longitude": -122.01667,
             "maxdate": "1975-09-30",
             "mindate": "1946-04-01",
+            "name": "PORT CHICAGO NAVAL D, CA US"
+        },
+        {
+            "datacoverage": 0.9999,
+            "elevation": 14.9,
+            "elevationUnit": "METERS",
+            "id": "COOP:047070",
+            "latitude": 38.01667,
+            "longitude": -122.01667,
+            "maxdate": "1975-09-01",
+            "mindate": "1946-05-01",
             "name": "PORT CHICAGO NAVAL D, CA US"
         },
         {
@@ -4287,14 +4287,14 @@
             "name": "POINT LOMA NAVY ELEC, CA US"
         },
         {
-            "datacoverage": 0.991,
+            "datacoverage": 0.9996,
             "elevation": 111.9,
             "elevationUnit": "METERS",
-            "id": "COOP:049255",
+            "id": "COOP:047015",
             "latitude": 34.66667,
             "longitude": -120.58333,
-            "maxdate": "1965-01-01",
-            "mindate": "1964-07-01",
+            "maxdate": "1964-06-26",
+            "mindate": "1959-07-01",
             "name": "POINT ARGUELLO AFWB, CA US"
         },
         {
@@ -4309,14 +4309,14 @@
             "name": "POINT ARGUELLO AFWB, CA US"
         },
         {
-            "datacoverage": 0.9996,
+            "datacoverage": 0.991,
             "elevation": 111.9,
             "elevationUnit": "METERS",
-            "id": "COOP:047015",
+            "id": "COOP:049255",
             "latitude": 34.66667,
             "longitude": -120.58333,
-            "maxdate": "1964-06-26",
-            "mindate": "1959-07-01",
+            "maxdate": "1965-01-01",
+            "mindate": "1964-07-01",
             "name": "POINT ARGUELLO AFWB, CA US"
         },
         {
@@ -4386,17 +4386,6 @@
             "name": "POINT ARENA 4.8 ESE, CA US"
         },
         {
-            "datacoverage": 0.916,
-            "elevation": 335.9,
-            "elevationUnit": "METERS",
-            "id": "GHCND:USC00047000",
-            "latitude": 38.48333,
-            "longitude": -120.85,
-            "maxdate": "1963-07-31",
-            "mindate": "1943-10-01",
-            "name": "PLYMOUTH, CA US"
-        },
-        {
             "datacoverage": 0.9326,
             "elevation": 335.9,
             "elevationUnit": "METERS",
@@ -4405,6 +4394,17 @@
             "longitude": -120.85,
             "maxdate": "1963-07-01",
             "mindate": "1943-11-01",
+            "name": "PLYMOUTH, CA US"
+        },
+        {
+            "datacoverage": 0.916,
+            "elevation": 335.9,
+            "elevationUnit": "METERS",
+            "id": "GHCND:USC00047000",
+            "latitude": 38.48333,
+            "longitude": -120.85,
+            "maxdate": "1963-07-31",
+            "mindate": "1943-10-01",
             "name": "PLYMOUTH, CA US"
         },
         {
@@ -4507,17 +4507,6 @@
             "name": "PLATINA, CA US"
         },
         {
-            "datacoverage": 0.9865,
-            "elevation": 563.9,
-            "elevationUnit": "METERS",
-            "id": "COOP:046960",
-            "latitude": 38.6955,
-            "longitude": -120.8244,
-            "maxdate": "2010-12-01",
-            "mindate": "1931-01-01",
-            "name": "PLACERVILLE, CA US"
-        },
-        {
             "datacoverage": 1,
             "elevation": 563.9,
             "elevationUnit": "METERS",
@@ -4526,6 +4515,17 @@
             "longitude": -120.8244,
             "maxdate": "2010-12-31",
             "mindate": "1900-01-01",
+            "name": "PLACERVILLE, CA US"
+        },
+        {
+            "datacoverage": 0.9865,
+            "elevation": 563.9,
+            "elevationUnit": "METERS",
+            "id": "COOP:046960",
+            "latitude": 38.6955,
+            "longitude": -120.8244,
+            "maxdate": "2010-12-01",
+            "mindate": "1931-01-01",
             "name": "PLACERVILLE, CA US"
         },
         {
@@ -4551,17 +4551,6 @@
             "name": "PLACERVILLE IFG, CA US"
         },
         {
-            "datacoverage": 0.8226,
-            "elevation": 475.5,
-            "elevationUnit": "METERS",
-            "id": "COOP:046963",
-            "latitude": 38.7311,
-            "longitude": -120.8469,
-            "maxdate": "1963-07-01",
-            "mindate": "1948-01-01",
-            "name": "PLACERVILLE DISP. PLANT, CA US"
-        },
-        {
             "datacoverage": 0.8718,
             "elevation": 475.5,
             "elevationUnit": "METERS",
@@ -4581,6 +4570,17 @@
             "longitude": -120.8469,
             "maxdate": "2014-01-01",
             "mindate": "1963-06-01",
+            "name": "PLACERVILLE DISP. PLANT, CA US"
+        },
+        {
+            "datacoverage": 0.8226,
+            "elevation": 475.5,
+            "elevationUnit": "METERS",
+            "id": "COOP:046963",
+            "latitude": 38.7311,
+            "longitude": -120.8469,
+            "maxdate": "1963-07-01",
+            "mindate": "1948-01-01",
             "name": "PLACERVILLE DISP. PLANT, CA US"
         },
         {
@@ -4672,6 +4672,17 @@
             "name": "PLACENTIA 2.1 ESE, CA US"
         },
         {
+            "datacoverage": 0.8732,
+            "elevation": 473,
+            "elevationUnit": "METERS",
+            "id": "GHCND:USC00040510",
+            "latitude": 38.93333,
+            "longitude": -122.86667,
+            "maxdate": "1956-08-31",
+            "mindate": "1956-01-01",
+            "name": "PITTS RANCH, CA US"
+        },
+        {
             "datacoverage": 1,
             "elevation": 473,
             "elevationUnit": "METERS",
@@ -4697,23 +4708,23 @@
             "datacoverage": 0.8732,
             "elevation": 473,
             "elevationUnit": "METERS",
-            "id": "GHCND:USC00040510",
-            "latitude": 38.93333,
-            "longitude": -122.86667,
-            "maxdate": "1956-08-31",
-            "mindate": "1956-01-01",
-            "name": "PITTS RANCH, CA US"
-        },
-        {
-            "datacoverage": 0.8732,
-            "elevation": 473,
-            "elevationUnit": "METERS",
             "id": "COOP:040510",
             "latitude": 38.93333,
             "longitude": -122.86667,
             "maxdate": "1956-08-01",
             "mindate": "1956-01-01",
             "name": "PITTS RANCH, CA US"
+        },
+        {
+            "datacoverage": 1,
+            "elevation": 877.8,
+            "elevationUnit": "METERS",
+            "id": "GHCND:USC00046944",
+            "latitude": 41,
+            "longitude": -121.5,
+            "maxdate": "2010-12-31",
+            "mindate": "1972-09-01",
+            "name": "PIT RIVER POWER HOUSE 1, CA US"
         },
         {
             "datacoverage": 0.9619,
@@ -4728,14 +4739,14 @@
         },
         {
             "datacoverage": 1,
-            "elevation": 877.8,
+            "elevation": 444.4,
             "elevationUnit": "METERS",
-            "id": "GHCND:USC00046944",
-            "latitude": 41,
-            "longitude": -121.5,
-            "maxdate": "2010-12-31",
-            "mindate": "1972-09-01",
-            "name": "PIT RIVER POWER HOUSE 1, CA US"
+            "id": "GHCND:USC00046946",
+            "latitude": 40.9869,
+            "longitude": -121.9772,
+            "maxdate": "2020-09-30",
+            "mindate": "1945-01-01",
+            "name": "PIT RIVER PH 5, CA US"
         },
         {
             "datacoverage": 0.9906,
@@ -4750,14 +4761,14 @@
         },
         {
             "datacoverage": 1,
-            "elevation": 444.4,
+            "elevation": 11.9,
             "elevationUnit": "METERS",
-            "id": "GHCND:USC00046946",
-            "latitude": 40.9869,
-            "longitude": -121.9772,
-            "maxdate": "2020-09-30",
-            "mindate": "1945-01-01",
-            "name": "PIT RIVER PH 5, CA US"
+            "id": "GHCND:USC00046943",
+            "latitude": 35.1597,
+            "longitude": -120.683,
+            "maxdate": "2016-03-01",
+            "mindate": "1949-01-01",
+            "name": "PISMO BEACH, CA US"
         },
         {
             "datacoverage": 0.9808,
@@ -4768,17 +4779,6 @@
             "longitude": -120.683,
             "maxdate": "2006-01-01",
             "mindate": "1949-07-01",
-            "name": "PISMO BEACH, CA US"
-        },
-        {
-            "datacoverage": 1,
-            "elevation": 11.9,
-            "elevationUnit": "METERS",
-            "id": "GHCND:USC00046943",
-            "latitude": 35.1597,
-            "longitude": -120.683,
-            "maxdate": "2016-03-01",
-            "mindate": "1949-01-01",
             "name": "PISMO BEACH, CA US"
         },
         {
@@ -4815,17 +4815,6 @@
             "name": "PIRU 3 SSE, CA US"
         },
         {
-            "datacoverage": 0.9646,
-            "elevation": 217,
-            "elevationUnit": "METERS",
-            "id": "COOP:046940",
-            "latitude": 34.4061,
-            "longitude": -118.7569,
-            "maxdate": "2015-11-01",
-            "mindate": "1959-06-01",
-            "name": "PIRU 2 ESE, CA US"
-        },
-        {
             "datacoverage": 1,
             "elevation": 217,
             "elevationUnit": "METERS",
@@ -4834,6 +4823,17 @@
             "longitude": -118.7569,
             "maxdate": "2020-11-13",
             "mindate": "1959-01-01",
+            "name": "PIRU 2 ESE, CA US"
+        },
+        {
+            "datacoverage": 0.9646,
+            "elevation": 217,
+            "elevationUnit": "METERS",
+            "id": "COOP:046940",
+            "latitude": 34.4061,
+            "longitude": -118.7569,
+            "maxdate": "2015-11-01",
+            "mindate": "1959-06-01",
             "name": "PIRU 2 ESE, CA US"
         },
         {
@@ -4892,17 +4892,6 @@
             "name": "PINON HILLS 3.5 N, CA US"
         },
         {
-            "datacoverage": 0.9641,
-            "elevation": 398.4,
-            "elevationUnit": "METERS",
-            "id": "COOP:046926",
-            "latitude": 36.4819,
-            "longitude": -121.1822,
-            "maxdate": "2015-11-01",
-            "mindate": "1937-01-01",
-            "name": "PINNACLES NATIONAL PARK, CA US"
-        },
-        {
             "datacoverage": 1,
             "elevation": 398.4,
             "elevationUnit": "METERS",
@@ -4910,6 +4899,17 @@
             "latitude": 36.4819,
             "longitude": -121.1822,
             "maxdate": "2020-09-30",
+            "mindate": "1937-01-01",
+            "name": "PINNACLES NATIONAL PARK, CA US"
+        },
+        {
+            "datacoverage": 0.9641,
+            "elevation": 398.4,
+            "elevationUnit": "METERS",
+            "id": "COOP:046926",
+            "latitude": 36.4819,
+            "longitude": -121.1822,
+            "maxdate": "2015-11-01",
             "mindate": "1937-01-01",
             "name": "PINNACLES NATIONAL PARK, CA US"
         },
@@ -4958,14 +4958,14 @@
             "name": "PINE MOUNTAIN, CA US"
         },
         {
-            "datacoverage": 0.0175,
+            "datacoverage": 1,
             "elevation": 1286.3,
             "elevationUnit": "METERS",
-            "id": "COOP:046910",
+            "id": "GHCND:USC00049618",
             "latitude": 34.6102,
             "longitude": -119.3666,
-            "maxdate": "2013-05-01",
-            "mindate": "1965-01-01",
+            "maxdate": "1951-09-30",
+            "mindate": "1948-07-01",
             "name": "PINE MOUNTAIN INN, CA US"
         },
         {
@@ -4980,14 +4980,14 @@
             "name": "PINE MOUNTAIN INN, CA US"
         },
         {
-            "datacoverage": 1,
+            "datacoverage": 0.0175,
             "elevation": 1286.3,
             "elevationUnit": "METERS",
-            "id": "GHCND:USC00049618",
+            "id": "COOP:046910",
             "latitude": 34.6102,
             "longitude": -119.3666,
-            "maxdate": "1951-09-30",
-            "mindate": "1948-07-01",
+            "maxdate": "2013-05-01",
+            "mindate": "1965-01-01",
             "name": "PINE MOUNTAIN INN, CA US"
         },
         {
@@ -5035,17 +5035,6 @@
             "name": "PINE GROVE 1.9 SSE, CA US"
         },
         {
-            "datacoverage": 0.9896,
-            "elevation": 187.5,
-            "elevationUnit": "METERS",
-            "id": "COOP:046896",
-            "latitude": 36.821,
-            "longitude": -119.3374,
-            "maxdate": "2012-12-01",
-            "mindate": "1964-11-01",
-            "name": "PINE FLAT DAM, CA US"
-        },
-        {
             "datacoverage": 1,
             "elevation": 187.5,
             "elevationUnit": "METERS",
@@ -5057,15 +5046,15 @@
             "name": "PINE FLAT DAM, CA US"
         },
         {
-            "datacoverage": 0.9999,
-            "elevation": 1003.1,
+            "datacoverage": 0.9896,
+            "elevation": 187.5,
             "elevationUnit": "METERS",
-            "id": "GHCND:USC00046891",
-            "latitude": 34.66667,
-            "longitude": -118.43333,
-            "maxdate": "1972-10-31",
-            "mindate": "1955-01-01",
-            "name": "PINE CANYON PS FC321, CA US"
+            "id": "COOP:046896",
+            "latitude": 36.821,
+            "longitude": -119.3374,
+            "maxdate": "2012-12-01",
+            "mindate": "1964-11-01",
+            "name": "PINE FLAT DAM, CA US"
         },
         {
             "datacoverage": 0.9999,
@@ -5076,6 +5065,17 @@
             "longitude": -118.43333,
             "maxdate": "1954-12-01",
             "mindate": "1931-08-01",
+            "name": "PINE CANYON PS FC321, CA US"
+        },
+        {
+            "datacoverage": 1,
+            "elevation": 1003.1,
+            "elevationUnit": "METERS",
+            "id": "GHCND:USC00042734",
+            "latitude": 34.66667,
+            "longitude": -118.43333,
+            "maxdate": "1954-12-31",
+            "mindate": "1949-01-01",
             "name": "PINE CANYON PS FC321, CA US"
         },
         {
@@ -5090,14 +5090,14 @@
             "name": "PINE CANYON PS FC321, CA US"
         },
         {
-            "datacoverage": 1,
+            "datacoverage": 0.9999,
             "elevation": 1003.1,
             "elevationUnit": "METERS",
-            "id": "GHCND:USC00042734",
+            "id": "GHCND:USC00046891",
             "latitude": 34.66667,
             "longitude": -118.43333,
-            "maxdate": "1954-12-31",
-            "mindate": "1949-01-01",
+            "maxdate": "1972-10-31",
+            "mindate": "1955-01-01",
             "name": "PINE CANYON PS FC321, CA US"
         },
         {
@@ -5167,17 +5167,6 @@
             "name": "PIEDRA, CA US"
         },
         {
-            "datacoverage": 0.9861,
-            "elevation": 936,
-            "elevationUnit": "METERS",
-            "id": "GHCND:USC00046862",
-            "latitude": 34.56667,
-            "longitude": -119.16667,
-            "maxdate": "1977-06-30",
-            "mindate": "1959-09-01",
-            "name": "PIEDRA BLANCA GAGING, CA US"
-        },
-        {
             "datacoverage": 1,
             "elevation": 936,
             "elevationUnit": "METERS",
@@ -5185,6 +5174,17 @@
             "latitude": 34.56667,
             "longitude": -119.16667,
             "maxdate": "1977-06-01",
+            "mindate": "1959-09-01",
+            "name": "PIEDRA BLANCA GAGING, CA US"
+        },
+        {
+            "datacoverage": 0.9861,
+            "elevation": 936,
+            "elevationUnit": "METERS",
+            "id": "GHCND:USC00046862",
+            "latitude": 34.56667,
+            "longitude": -119.16667,
+            "maxdate": "1977-06-30",
             "mindate": "1959-09-01",
             "name": "PIEDRA BLANCA GAGING, CA US"
         },
@@ -5365,17 +5365,6 @@
             "name": "PETALUMA 1.0 N, CA US"
         },
         {
-            "datacoverage": 1,
-            "elevation": 9.1,
-            "elevationUnit": "METERS",
-            "id": "GHCND:USC00046829",
-            "latitude": 38.25,
-            "longitude": -122.63333,
-            "maxdate": "1951-09-30",
-            "mindate": "1948-07-01",
-            "name": "PETALUMA 1 N, CA US"
-        },
-        {
             "datacoverage": 0.9783,
             "elevation": 9.1,
             "elevationUnit": "METERS",
@@ -5388,25 +5377,14 @@
         },
         {
             "datacoverage": 1,
-            "elevation": 448.1,
+            "elevation": 9.1,
             "elevationUnit": "METERS",
-            "id": "COOP:046818",
-            "latitude": 33.78333,
-            "longitude": -117.23333,
-            "maxdate": "1957-05-01",
-            "mindate": "1951-11-01",
-            "name": "PERRIS, CA US"
-        },
-        {
-            "datacoverage": 0.9925,
-            "elevation": 448.1,
-            "elevationUnit": "METERS",
-            "id": "COOP:046816",
-            "latitude": 33.78333,
-            "longitude": -117.23333,
-            "maxdate": "1973-03-01",
-            "mindate": "1961-12-01",
-            "name": "PERRIS, CA US"
+            "id": "GHCND:USC00046829",
+            "latitude": 38.25,
+            "longitude": -122.63333,
+            "maxdate": "1951-09-30",
+            "mindate": "1948-07-01",
+            "name": "PETALUMA 1 N, CA US"
         },
         {
             "datacoverage": 1,
@@ -5427,6 +5405,28 @@
             "latitude": 33.78333,
             "longitude": -117.23333,
             "maxdate": "1973-03-31",
+            "mindate": "1961-12-01",
+            "name": "PERRIS, CA US"
+        },
+        {
+            "datacoverage": 1,
+            "elevation": 448.1,
+            "elevationUnit": "METERS",
+            "id": "COOP:046818",
+            "latitude": 33.78333,
+            "longitude": -117.23333,
+            "maxdate": "1957-05-01",
+            "mindate": "1951-11-01",
+            "name": "PERRIS, CA US"
+        },
+        {
+            "datacoverage": 0.9925,
+            "elevation": 448.1,
+            "elevationUnit": "METERS",
+            "id": "COOP:046816",
+            "latitude": 33.78333,
+            "longitude": -117.23333,
+            "maxdate": "1973-03-01",
             "mindate": "1961-12-01",
             "name": "PERRIS, CA US"
         },
@@ -5475,17 +5475,6 @@
             "name": "PENN VALLEY 4.4 N, CA US"
         },
         {
-            "datacoverage": 0.775,
-            "elevation": 494.1,
-            "elevationUnit": "METERS",
-            "id": "COOP:046791",
-            "latitude": 34.51667,
-            "longitude": -119.56667,
-            "maxdate": "1957-12-01",
-            "mindate": "1943-12-01",
-            "name": "PENDOLA GAUGING STATION, CA US"
-        },
-        {
             "datacoverage": 0.9352,
             "elevation": 494.1,
             "elevationUnit": "METERS",
@@ -5494,6 +5483,17 @@
             "longitude": -119.56667,
             "maxdate": "1957-12-31",
             "mindate": "1943-11-01",
+            "name": "PENDOLA GAUGING STATION, CA US"
+        },
+        {
+            "datacoverage": 0.775,
+            "elevation": 494.1,
+            "elevationUnit": "METERS",
+            "id": "COOP:046791",
+            "latitude": 34.51667,
+            "longitude": -119.56667,
+            "maxdate": "1957-12-01",
+            "mindate": "1943-12-01",
             "name": "PENDOLA GAUGING STATION, CA US"
         },
         {
@@ -5519,17 +5519,6 @@
             "name": "PEARBLOSSOM, CA US"
         },
         {
-            "datacoverage": 0.7985,
-            "elevation": 561.1,
-            "elevationUnit": "METERS",
-            "id": "COOP:046761",
-            "latitude": 40.33333,
-            "longitude": -121.9,
-            "maxdate": "1984-03-01",
-            "mindate": "1952-01-01",
-            "name": "PAYNES CREEK, CA US"
-        },
-        {
             "datacoverage": 0.7494,
             "elevation": 561.1,
             "elevationUnit": "METERS",
@@ -5537,6 +5526,17 @@
             "latitude": 40.33333,
             "longitude": -121.9,
             "maxdate": "1984-03-31",
+            "mindate": "1952-01-01",
+            "name": "PAYNES CREEK, CA US"
+        },
+        {
+            "datacoverage": 0.7985,
+            "elevation": 561.1,
+            "elevationUnit": "METERS",
+            "id": "COOP:046761",
+            "latitude": 40.33333,
+            "longitude": -121.9,
+            "maxdate": "1984-03-01",
             "mindate": "1952-01-01",
             "name": "PAYNES CREEK, CA US"
         },
@@ -5574,17 +5574,6 @@
             "name": "PATTY MOCUS CALIFORNIA, CA US"
         },
         {
-            "datacoverage": 0.9699,
-            "elevation": 1179,
-            "elevationUnit": "METERS",
-            "id": "GHCND:USC00046754",
-            "latitude": 34.93333,
-            "longitude": -119.38333,
-            "maxdate": "1987-11-30",
-            "mindate": "1915-12-01",
-            "name": "PATTIWAY, CA US"
-        },
-        {
             "datacoverage": 0.9869,
             "elevation": 1179,
             "elevationUnit": "METERS",
@@ -5593,6 +5582,17 @@
             "longitude": -119.38333,
             "maxdate": "1987-11-01",
             "mindate": "1931-01-01",
+            "name": "PATTIWAY, CA US"
+        },
+        {
+            "datacoverage": 0.9699,
+            "elevation": 1179,
+            "elevationUnit": "METERS",
+            "id": "GHCND:USC00046754",
+            "latitude": 34.93333,
+            "longitude": -119.38333,
+            "maxdate": "1987-11-30",
+            "mindate": "1915-12-01",
             "name": "PATTIWAY, CA US"
         },
         {
@@ -5618,17 +5618,6 @@
             "name": "PASO ROBLES, CA US"
         },
         {
-            "datacoverage": 0.96,
-            "elevation": 246.9,
-            "elevationUnit": "METERS",
-            "id": "WBAN:93209",
-            "latitude": 35.6697,
-            "longitude": -120.6283,
-            "maxdate": "2020-11-22",
-            "mindate": "1941-12-01",
-            "name": "PASO ROBLES MUNICIPAL AIRPORT, CA US"
-        },
-        {
             "datacoverage": 1,
             "elevation": 246.9,
             "elevationUnit": "METERS",
@@ -5637,6 +5626,17 @@
             "longitude": -120.6283,
             "maxdate": "2020-11-22",
             "mindate": "1948-01-01",
+            "name": "PASO ROBLES MUNICIPAL AIRPORT, CA US"
+        },
+        {
+            "datacoverage": 0.96,
+            "elevation": 246.9,
+            "elevationUnit": "METERS",
+            "id": "WBAN:93209",
+            "latitude": 35.6697,
+            "longitude": -120.6283,
+            "maxdate": "2020-11-22",
+            "mindate": "1941-12-01",
             "name": "PASO ROBLES MUNICIPAL AIRPORT, CA US"
         },
         {
@@ -5695,6 +5695,17 @@
             "name": "PASO ROBLES 1.8 WSW, CA US"
         },
         {
+            "datacoverage": 1,
+            "elevation": 230.1,
+            "elevationUnit": "METERS",
+            "id": "GHCND:USC00046726",
+            "latitude": 39.8875,
+            "longitude": -122.5538,
+            "maxdate": "2010-12-31",
+            "mindate": "1937-10-01",
+            "name": "PASKENTA RANGER STATION, CA US"
+        },
+        {
             "datacoverage": 0.983,
             "elevation": 230.1,
             "elevationUnit": "METERS",
@@ -5707,14 +5718,14 @@
         },
         {
             "datacoverage": 1,
-            "elevation": 230.1,
+            "elevation": 263.3,
             "elevationUnit": "METERS",
-            "id": "GHCND:USC00046726",
-            "latitude": 39.8875,
-            "longitude": -122.5538,
-            "maxdate": "2010-12-31",
-            "mindate": "1937-10-01",
-            "name": "PASKENTA RANGER STATION, CA US"
+            "id": "COOP:046719",
+            "latitude": 34.1483,
+            "longitude": -118.1447,
+            "maxdate": "2015-11-01",
+            "mindate": "1931-01-01",
+            "name": "PASADENA, CA US"
         },
         {
             "datacoverage": 1,
@@ -5725,17 +5736,6 @@
             "longitude": -118.1447,
             "maxdate": "2020-11-11",
             "mindate": "1893-01-01",
-            "name": "PASADENA, CA US"
-        },
-        {
-            "datacoverage": 1,
-            "elevation": 263.3,
-            "elevationUnit": "METERS",
-            "id": "COOP:046719",
-            "latitude": 34.1483,
-            "longitude": -118.1447,
-            "maxdate": "2015-11-01",
-            "mindate": "1931-01-01",
             "name": "PASADENA, CA US"
         },
         {
@@ -5849,17 +5849,6 @@
             "name": "PARKFIELD 6 SE, CA US"
         },
         {
-            "datacoverage": 1,
-            "elevation": 128,
-            "elevationUnit": "METERS",
-            "id": "GHCND:USC00026250",
-            "latitude": 34.1547,
-            "longitude": -114.2908,
-            "maxdate": "2020-11-23",
-            "mindate": "1893-10-01",
-            "name": "PARKER, AZ US"
-        },
-        {
             "datacoverage": 0.9755,
             "elevation": 128,
             "elevationUnit": "METERS",
@@ -5868,6 +5857,17 @@
             "longitude": -114.2908,
             "maxdate": "2015-11-01",
             "mindate": "1931-01-01",
+            "name": "PARKER, AZ US"
+        },
+        {
+            "datacoverage": 1,
+            "elevation": 128,
+            "elevationUnit": "METERS",
+            "id": "GHCND:USC00026250",
+            "latitude": 34.1547,
+            "longitude": -114.2908,
+            "maxdate": "2020-11-23",
+            "mindate": "1893-10-01",
             "name": "PARKER, AZ US"
         },
         {
@@ -6014,6 +6014,17 @@
             "name": "PANAMINT CALIFORNIA, CA US"
         },
         {
+            "datacoverage": 1,
+            "elevation": 67.1,
+            "elevationUnit": "METERS",
+            "id": "GHCND:USC00046663",
+            "latitude": 33.7997,
+            "longitude": -118.391,
+            "maxdate": "2020-09-30",
+            "mindate": "1949-01-01",
+            "name": "PALOS VERDES ES FC43D, CA US"
+        },
+        {
             "datacoverage": 0.9088,
             "elevation": 67.1,
             "elevationUnit": "METERS",
@@ -6026,14 +6037,14 @@
         },
         {
             "datacoverage": 1,
-            "elevation": 67.1,
+            "elevation": 1691.6,
             "elevationUnit": "METERS",
-            "id": "GHCND:USC00046663",
-            "latitude": 33.7997,
-            "longitude": -118.391,
-            "maxdate": "2020-09-30",
-            "mindate": "1949-01-01",
-            "name": "PALOS VERDES ES FC43D, CA US"
+            "id": "GHCND:USC00046657",
+            "latitude": 33.378,
+            "longitude": -116.84,
+            "maxdate": "2020-11-22",
+            "mindate": "1901-01-01",
+            "name": "PALOMAR MOUNTAIN OBSERVATORY, CA US"
         },
         {
             "datacoverage": 0.9944,
@@ -6044,17 +6055,6 @@
             "longitude": -116.84,
             "maxdate": "2015-11-01",
             "mindate": "1942-01-01",
-            "name": "PALOMAR MOUNTAIN OBSERVATORY, CA US"
-        },
-        {
-            "datacoverage": 1,
-            "elevation": 1691.6,
-            "elevationUnit": "METERS",
-            "id": "GHCND:USC00046657",
-            "latitude": 33.378,
-            "longitude": -116.84,
-            "maxdate": "2020-11-22",
-            "mindate": "1901-01-01",
             "name": "PALOMAR MOUNTAIN OBSERVATORY, CA US"
         },
         {
@@ -6089,6 +6089,17 @@
             "maxdate": "2009-05-27",
             "mindate": "2008-12-01",
             "name": "PALO CEDRO 2.7 NNE, CA US"
+        },
+        {
+            "datacoverage": 0.55,
+            "elevation": 2.1,
+            "elevationUnit": "METERS",
+            "id": "WBAN:23289",
+            "latitude": 37.46667,
+            "longitude": -122.11667,
+            "maxdate": "2020-11-22",
+            "mindate": "2005-06-19",
+            "name": "PALO ALTO, CA US"
         },
         {
             "datacoverage": 1,
@@ -6135,17 +6146,6 @@
             "name": "PALO ALTO, CA US"
         },
         {
-            "datacoverage": 0.55,
-            "elevation": 2.1,
-            "elevationUnit": "METERS",
-            "id": "WBAN:23289",
-            "latitude": 37.46667,
-            "longitude": -122.11667,
-            "maxdate": "2020-11-22",
-            "mindate": "2005-06-19",
-            "name": "PALO ALTO, CA US"
-        },
-        {
             "datacoverage": 0.9267,
             "elevation": 8.8,
             "elevationUnit": "METERS",
@@ -6179,6 +6179,17 @@
             "name": "PALO ALTO 0.8 NNE, CA US"
         },
         {
+            "datacoverage": 1,
+            "elevation": 796.1,
+            "elevationUnit": "METERS",
+            "id": "GHCND:USC00046624",
+            "latitude": 34.5883,
+            "longitude": -118.0938,
+            "maxdate": "2020-09-30",
+            "mindate": "1903-01-01",
+            "name": "PALMDALE, CA US"
+        },
+        {
             "datacoverage": 0.9843,
             "elevation": 796.1,
             "elevationUnit": "METERS",
@@ -6191,14 +6202,14 @@
         },
         {
             "datacoverage": 1,
-            "elevation": 796.1,
+            "elevation": 769.2,
             "elevationUnit": "METERS",
-            "id": "GHCND:USC00046624",
-            "latitude": 34.5883,
-            "longitude": -118.0938,
-            "maxdate": "2020-09-30",
-            "mindate": "1903-01-01",
-            "name": "PALMDALE, CA US"
+            "id": "GHCND:USW00023182",
+            "latitude": 34.62944,
+            "longitude": -118.08361,
+            "maxdate": "2020-11-22",
+            "mindate": "1934-01-01",
+            "name": "PALMDALE AIRPORT, CA US"
         },
         {
             "datacoverage": 1,
@@ -6220,17 +6231,6 @@
             "longitude": -118.08361,
             "maxdate": "2020-11-22",
             "mindate": "1948-11-01",
-            "name": "PALMDALE AIRPORT, CA US"
-        },
-        {
-            "datacoverage": 1,
-            "elevation": 769.2,
-            "elevationUnit": "METERS",
-            "id": "GHCND:USW00023182",
-            "latitude": 34.62944,
-            "longitude": -118.08361,
-            "maxdate": "2020-11-22",
-            "mindate": "1934-01-01",
             "name": "PALMDALE AIRPORT, CA US"
         },
         {
@@ -6281,22 +6281,22 @@
             "datacoverage": 1,
             "elevation": 124.7,
             "elevationUnit": "METERS",
-            "id": "COOP:046636",
+            "id": "WBAN:93138",
             "latitude": 33.8222,
             "longitude": -116.5043,
-            "maxdate": "2015-11-01",
-            "mindate": "2015-01-01",
+            "maxdate": "2020-11-22",
+            "mindate": "2005-01-01",
             "name": "PALM SPRINGS ASOS, CA US"
         },
         {
             "datacoverage": 1,
             "elevation": 124.7,
             "elevationUnit": "METERS",
-            "id": "WBAN:93138",
+            "id": "COOP:046636",
             "latitude": 33.8222,
             "longitude": -116.5043,
-            "maxdate": "2020-11-22",
-            "mindate": "2005-01-01",
+            "maxdate": "2015-11-01",
+            "mindate": "2015-01-01",
             "name": "PALM SPRINGS ASOS, CA US"
         },
         {
@@ -6366,17 +6366,6 @@
             "name": "PALERMO 2.7 SE, CA US"
         },
         {
-            "datacoverage": 0.9409,
-            "elevation": 275.8,
-            "elevationUnit": "METERS",
-            "id": "COOP:046610",
-            "latitude": 36.715,
-            "longitude": -121.34917,
-            "maxdate": "2011-12-01",
-            "mindate": "1940-02-01",
-            "name": "PAICINES 4 W, CA US"
-        },
-        {
             "datacoverage": 1,
             "elevation": 275.8,
             "elevationUnit": "METERS",
@@ -6385,6 +6374,17 @@
             "longitude": -121.34917,
             "maxdate": "2011-05-31",
             "mindate": "1948-07-01",
+            "name": "PAICINES 4 W, CA US"
+        },
+        {
+            "datacoverage": 0.9409,
+            "elevation": 275.8,
+            "elevationUnit": "METERS",
+            "id": "COOP:046610",
+            "latitude": 36.715,
+            "longitude": -121.34917,
+            "maxdate": "2011-12-01",
+            "mindate": "1940-02-01",
             "name": "PAICINES 4 W, CA US"
         },
         {
@@ -6410,17 +6410,6 @@
             "name": "PACOIMA DAM FC33A E, CA US"
         },
         {
-            "datacoverage": 0.9913,
-            "elevation": 144.8,
-            "elevationUnit": "METERS",
-            "id": "COOP:046599",
-            "latitude": 37.59167,
-            "longitude": -122.47167,
-            "maxdate": "2012-12-01",
-            "mindate": "1983-11-01",
-            "name": "PACIFICA 4 SSE, CA US"
-        },
-        {
             "datacoverage": 1,
             "elevation": 144.8,
             "elevationUnit": "METERS",
@@ -6432,15 +6421,15 @@
             "name": "PACIFICA 4 SSE, CA US"
         },
         {
-            "datacoverage": 0.9906,
-            "elevation": 38.1,
+            "datacoverage": 0.9913,
+            "elevation": 144.8,
             "elevationUnit": "METERS",
-            "id": "COOP:046598",
-            "latitude": 37.61028,
-            "longitude": -122.48417,
-            "maxdate": "2009-05-01",
-            "mindate": "2000-11-01",
-            "name": "PACIFICA 2 S, CA US"
+            "id": "COOP:046599",
+            "latitude": 37.59167,
+            "longitude": -122.47167,
+            "maxdate": "2012-12-01",
+            "mindate": "1983-11-01",
+            "name": "PACIFICA 4 SSE, CA US"
         },
         {
             "datacoverage": 0.9906,
@@ -6450,6 +6439,17 @@
             "latitude": 37.61028,
             "longitude": -122.48417,
             "maxdate": "2009-05-31",
+            "mindate": "2000-11-01",
+            "name": "PACIFICA 2 S, CA US"
+        },
+        {
+            "datacoverage": 0.9906,
+            "elevation": 38.1,
+            "elevationUnit": "METERS",
+            "id": "COOP:046598",
+            "latitude": 37.61028,
+            "longitude": -122.48417,
+            "maxdate": "2009-05-01",
             "mindate": "2000-11-01",
             "name": "PACIFICA 2 S, CA US"
         },
@@ -6553,17 +6553,6 @@
             "name": "PACIFIC GROVE 0.6 N, CA US"
         },
         {
-            "datacoverage": 0.4669,
-            "elevation": 267.9,
-            "elevationUnit": "METERS",
-            "id": "GHCND:USC00046583",
-            "latitude": 37.06667,
-            "longitude": -121.18333,
-            "maxdate": "1977-06-30",
-            "mindate": "1949-11-01",
-            "name": "PACHECO PASS, CA US"
-        },
-        {
             "datacoverage": 0.4623,
             "elevation": 267.9,
             "elevationUnit": "METERS",
@@ -6572,6 +6561,17 @@
             "longitude": -121.18333,
             "maxdate": "1977-06-01",
             "mindate": "1949-12-01",
+            "name": "PACHECO PASS, CA US"
+        },
+        {
+            "datacoverage": 0.4669,
+            "elevation": 267.9,
+            "elevationUnit": "METERS",
+            "id": "GHCND:USC00046583",
+            "latitude": 37.06667,
+            "longitude": -121.18333,
+            "maxdate": "1977-06-30",
+            "mindate": "1949-11-01",
             "name": "PACHECO PASS, CA US"
         },
         {
@@ -6663,17 +6663,6 @@
             "name": "OXNARD WEATHER FORECAST OFFICE, CA US"
         },
         {
-            "datacoverage": 0.88,
-            "elevation": 11,
-            "elevationUnit": "METERS",
-            "id": "WBAN:93110",
-            "latitude": 34.20083,
-            "longitude": -119.20694,
-            "maxdate": "2020-11-22",
-            "mindate": "1944-04-01",
-            "name": "OXNARD VENTURA CO AIRPORT, CA US"
-        },
-        {
             "datacoverage": 1,
             "elevation": 11,
             "elevationUnit": "METERS",
@@ -6682,6 +6671,17 @@
             "longitude": -119.20694,
             "maxdate": "2020-11-22",
             "mindate": "1998-03-01",
+            "name": "OXNARD VENTURA CO AIRPORT, CA US"
+        },
+        {
+            "datacoverage": 0.88,
+            "elevation": 11,
+            "elevationUnit": "METERS",
+            "id": "WBAN:93110",
+            "latitude": 34.20083,
+            "longitude": -119.20694,
+            "maxdate": "2020-11-22",
+            "mindate": "1944-04-01",
             "name": "OXNARD VENTURA CO AIRPORT, CA US"
         },
         {
@@ -6707,14 +6707,14 @@
             "name": "OWENS CAMP LOC CALIFORNIA, CA US"
         },
         {
-            "datacoverage": 0.9059,
+            "datacoverage": 1,
             "elevation": 52.1,
             "elevationUnit": "METERS",
-            "id": "GHCND:USC00046522",
+            "id": "COOP:046522",
             "latitude": 39.5177,
             "longitude": -121.553,
-            "maxdate": "1953-04-22",
-            "mindate": "1893-03-01",
+            "maxdate": "1953-04-01",
+            "mindate": "1931-01-01",
             "name": "OROVILLE, CA US"
         },
         {
@@ -6732,17 +6732,6 @@
             "datacoverage": 1,
             "elevation": 52.1,
             "elevationUnit": "METERS",
-            "id": "COOP:046522",
-            "latitude": 39.5177,
-            "longitude": -121.553,
-            "maxdate": "1953-04-01",
-            "mindate": "1931-01-01",
-            "name": "OROVILLE, CA US"
-        },
-        {
-            "datacoverage": 1,
-            "elevation": 52.1,
-            "elevationUnit": "METERS",
             "id": "GHCND:USC00046521",
             "latitude": 39.5177,
             "longitude": -121.553,
@@ -6751,15 +6740,15 @@
             "name": "OROVILLE, CA US"
         },
         {
-            "datacoverage": 0.2116,
-            "elevation": 92,
+            "datacoverage": 0.9059,
+            "elevation": 52.1,
             "elevationUnit": "METERS",
-            "id": "COOP:046528",
-            "latitude": 39.53333,
-            "longitude": -121.56667,
-            "maxdate": "1979-06-01",
-            "mindate": "1948-01-01",
-            "name": "OROVILLE RANGER STATION, CA US"
+            "id": "GHCND:USC00046522",
+            "latitude": 39.5177,
+            "longitude": -121.553,
+            "maxdate": "1953-04-22",
+            "mindate": "1893-03-01",
+            "name": "OROVILLE, CA US"
         },
         {
             "datacoverage": 0.2022,
@@ -6773,15 +6762,15 @@
             "name": "OROVILLE RANGER STATION, CA US"
         },
         {
-            "datacoverage": 1,
-            "elevation": 57.9,
+            "datacoverage": 0.2116,
+            "elevation": 92,
             "elevationUnit": "METERS",
-            "id": "WBAN:93210",
-            "latitude": 39.49,
-            "longitude": -121.61833,
-            "maxdate": "2020-11-22",
-            "mindate": "2005-01-01",
-            "name": "OROVILLE MUNICIPAL AIRPORT, CA US"
+            "id": "COOP:046528",
+            "latitude": 39.53333,
+            "longitude": -121.56667,
+            "maxdate": "1979-06-01",
+            "mindate": "1948-01-01",
+            "name": "OROVILLE RANGER STATION, CA US"
         },
         {
             "datacoverage": 1,
@@ -6792,6 +6781,17 @@
             "longitude": -121.61833,
             "maxdate": "2020-11-17",
             "mindate": "1998-06-01",
+            "name": "OROVILLE MUNICIPAL AIRPORT, CA US"
+        },
+        {
+            "datacoverage": 1,
+            "elevation": 57.9,
+            "elevationUnit": "METERS",
+            "id": "WBAN:93210",
+            "latitude": 39.49,
+            "longitude": -121.61833,
+            "maxdate": "2020-11-22",
+            "mindate": "2005-01-01",
             "name": "OROVILLE MUNICIPAL AIRPORT, CA US"
         },
         {
@@ -6817,17 +6817,6 @@
             "name": "OROVILLE DAM, CA US"
         },
         {
-            "datacoverage": 0.8241,
-            "elevation": 52.1,
-            "elevationUnit": "METERS",
-            "id": "GHCND:USC00046525",
-            "latitude": 39.51667,
-            "longitude": -121.56667,
-            "maxdate": "1975-08-31",
-            "mindate": "1893-04-01",
-            "name": "OROVILLE BRIDGE, CA US"
-        },
-        {
             "datacoverage": 0.9888,
             "elevation": 52.1,
             "elevationUnit": "METERS",
@@ -6839,14 +6828,25 @@
             "name": "OROVILLE BRIDGE, CA US"
         },
         {
+            "datacoverage": 0.8241,
+            "elevation": 52.1,
+            "elevationUnit": "METERS",
+            "id": "GHCND:USC00046525",
+            "latitude": 39.51667,
+            "longitude": -121.56667,
+            "maxdate": "1975-08-31",
+            "mindate": "1893-04-01",
+            "name": "OROVILLE BRIDGE, CA US"
+        },
+        {
             "datacoverage": 1,
             "elevation": 161.8,
             "elevationUnit": "METERS",
-            "id": "COOP:046523",
+            "id": "GHCND:USC00048099",
             "latitude": 39.43333,
             "longitude": -121.48333,
-            "maxdate": "1961-02-01",
-            "mindate": "1949-07-01",
+            "maxdate": "1949-06-18",
+            "mindate": "1919-01-01",
             "name": "OROVILLE 7 SE, CA US"
         },
         {
@@ -6864,11 +6864,11 @@
             "datacoverage": 1,
             "elevation": 161.8,
             "elevationUnit": "METERS",
-            "id": "GHCND:USC00048099",
+            "id": "COOP:046523",
             "latitude": 39.43333,
             "longitude": -121.48333,
-            "maxdate": "1949-06-18",
-            "mindate": "1919-01-01",
+            "maxdate": "1961-02-01",
+            "mindate": "1949-07-01",
             "name": "OROVILLE 7 SE, CA US"
         },
         {
@@ -6916,17 +6916,6 @@
             "name": "OROVILLE 2.7 ENE, CA US"
         },
         {
-            "datacoverage": 1,
-            "elevation": 122.8,
-            "elevationUnit": "METERS",
-            "id": "GHCND:USC00046508",
-            "latitude": 41.3088,
-            "longitude": -123.5316,
-            "maxdate": "2016-07-31",
-            "mindate": "1903-04-01",
-            "name": "ORLEANS, CA US"
-        },
-        {
             "datacoverage": 0.9961,
             "elevation": 122.8,
             "elevationUnit": "METERS",
@@ -6935,6 +6924,17 @@
             "longitude": -123.5316,
             "maxdate": "2015-11-01",
             "mindate": "1931-01-01",
+            "name": "ORLEANS, CA US"
+        },
+        {
+            "datacoverage": 1,
+            "elevation": 122.8,
+            "elevationUnit": "METERS",
+            "id": "GHCND:USC00046508",
+            "latitude": 41.3088,
+            "longitude": -123.5316,
+            "maxdate": "2016-07-31",
+            "mindate": "1903-04-01",
             "name": "ORLEANS, CA US"
         },
         {
@@ -6949,6 +6949,17 @@
             "name": "ORLEANS RANGER STATION, CA US"
         },
         {
+            "datacoverage": 0.999,
+            "elevation": 77.4,
+            "elevationUnit": "METERS",
+            "id": "COOP:046506",
+            "latitude": 39.7458,
+            "longitude": -122.1997,
+            "maxdate": "2015-11-01",
+            "mindate": "1931-01-01",
+            "name": "ORLAND, CA US"
+        },
+        {
             "datacoverage": 1,
             "elevation": 77.4,
             "elevationUnit": "METERS",
@@ -6960,15 +6971,15 @@
             "name": "ORLAND, CA US"
         },
         {
-            "datacoverage": 0.999,
-            "elevation": 77.4,
+            "datacoverage": 1,
+            "elevation": 167.9,
             "elevationUnit": "METERS",
-            "id": "COOP:046506",
-            "latitude": 39.7458,
-            "longitude": -122.1997,
-            "maxdate": "2015-11-01",
-            "mindate": "1931-01-01",
-            "name": "ORLAND, CA US"
+            "id": "COOP:046502",
+            "latitude": 37.86667,
+            "longitude": -122.16667,
+            "maxdate": "1960-06-01",
+            "mindate": "1944-08-01",
+            "name": "ORINDA BOWMAN, CA US"
         },
         {
             "datacoverage": 1,
@@ -6983,14 +6994,14 @@
         },
         {
             "datacoverage": 1,
-            "elevation": 167.9,
+            "elevation": 48.8,
             "elevationUnit": "METERS",
-            "id": "COOP:046502",
-            "latitude": 37.86667,
-            "longitude": -122.16667,
-            "maxdate": "1960-06-01",
-            "mindate": "1944-08-01",
-            "name": "ORINDA BOWMAN, CA US"
+            "id": "GHCND:USC00046498",
+            "latitude": 41.3619,
+            "longitude": -124.0191,
+            "maxdate": "2012-10-31",
+            "mindate": "1937-05-01",
+            "name": "ORICK PRAIRIE, CA US"
         },
         {
             "datacoverage": 0.9362,
@@ -7001,17 +7012,6 @@
             "longitude": -124.0191,
             "maxdate": "2013-12-01",
             "mindate": "1937-01-01",
-            "name": "ORICK PRAIRIE, CA US"
-        },
-        {
-            "datacoverage": 1,
-            "elevation": 48.8,
-            "elevationUnit": "METERS",
-            "id": "GHCND:USC00046498",
-            "latitude": 41.3619,
-            "longitude": -124.0191,
-            "maxdate": "2012-10-31",
-            "mindate": "1937-05-01",
             "name": "ORICK PRAIRIE, CA US"
         },
         {
@@ -7059,17 +7059,6 @@
             "name": "OREGON MOUNTAIN, CA US"
         },
         {
-            "datacoverage": 0.9622,
-            "elevation": 131.1,
-            "elevationUnit": "METERS",
-            "id": "GHCND:USC00046476",
-            "latitude": 36.61667,
-            "longitude": -119.3,
-            "maxdate": "1990-11-30",
-            "mindate": "1931-06-01",
-            "name": "ORANGE COVE, CA US"
-        },
-        {
             "datacoverage": 0.9762,
             "elevation": 131.1,
             "elevationUnit": "METERS",
@@ -7077,6 +7066,17 @@
             "latitude": 36.61667,
             "longitude": -119.3,
             "maxdate": "1990-11-01",
+            "mindate": "1931-06-01",
+            "name": "ORANGE COVE, CA US"
+        },
+        {
+            "datacoverage": 0.9622,
+            "elevation": 131.1,
+            "elevationUnit": "METERS",
+            "id": "GHCND:USC00046476",
+            "latitude": 36.61667,
+            "longitude": -119.3,
+            "maxdate": "1990-11-30",
             "mindate": "1931-06-01",
             "name": "ORANGE COVE, CA US"
         },
@@ -7213,17 +7213,6 @@
             "name": "ONTARIO, CA US"
         },
         {
-            "datacoverage": 0.43,
-            "elevation": 289.3,
-            "elevationUnit": "METERS",
-            "id": "WBAN:03102",
-            "latitude": 34.05611,
-            "longitude": -117.60028,
-            "maxdate": "2020-11-22",
-            "mindate": "1968-01-01",
-            "name": "ONTARIO INTERNATIONAL AIRPORT, CA US"
-        },
-        {
             "datacoverage": 1,
             "elevation": 289.3,
             "elevationUnit": "METERS",
@@ -7235,15 +7224,15 @@
             "name": "ONTARIO INTERNATIONAL AIRPORT, CA US"
         },
         {
-            "datacoverage": 0.8812,
-            "elevation": 298.1,
+            "datacoverage": 0.43,
+            "elevation": 289.3,
             "elevationUnit": "METERS",
-            "id": "GHCND:USC00046455",
-            "latitude": 40.48333,
-            "longitude": -122.61667,
-            "maxdate": "1984-03-31",
-            "mindate": "1952-01-01",
-            "name": "ONO, CA US"
+            "id": "WBAN:03102",
+            "latitude": 34.05611,
+            "longitude": -117.60028,
+            "maxdate": "2020-11-22",
+            "mindate": "1968-01-01",
+            "name": "ONTARIO INTERNATIONAL AIRPORT, CA US"
         },
         {
             "datacoverage": 0.9225,
@@ -7257,15 +7246,15 @@
             "name": "ONO, CA US"
         },
         {
-            "datacoverage": 0.9459,
-            "elevation": 149,
+            "datacoverage": 0.8812,
+            "elevation": 298.1,
             "elevationUnit": "METERS",
-            "id": "COOP:046432",
-            "latitude": 33.91667,
-            "longitude": -117.85,
-            "maxdate": "1966-05-01",
-            "mindate": "1941-11-01",
-            "name": "OLINDA, CA US"
+            "id": "GHCND:USC00046455",
+            "latitude": 40.48333,
+            "longitude": -122.61667,
+            "maxdate": "1984-03-31",
+            "mindate": "1952-01-01",
+            "name": "ONO, CA US"
         },
         {
             "datacoverage": 0.9907,
@@ -7276,6 +7265,17 @@
             "longitude": -117.85,
             "maxdate": "1966-05-31",
             "mindate": "1948-07-01",
+            "name": "OLINDA, CA US"
+        },
+        {
+            "datacoverage": 0.9459,
+            "elevation": 149,
+            "elevationUnit": "METERS",
+            "id": "COOP:046432",
+            "latitude": 33.91667,
+            "longitude": -117.85,
+            "maxdate": "1966-05-01",
+            "mindate": "1941-11-01",
             "name": "OLINDA, CA US"
         },
         {
@@ -7334,17 +7334,6 @@
             "name": "OJAI 0.3 WNW, CA US"
         },
         {
-            "datacoverage": 0.6635,
-            "elevation": 54.9,
-            "elevationUnit": "METERS",
-            "id": "GHCND:USC00046383",
-            "latitude": 33.15,
-            "longitude": -116.13333,
-            "maxdate": "1975-06-30",
-            "mindate": "1932-03-01",
-            "name": "OCOTILLO WELLS, CA US"
-        },
-        {
             "datacoverage": 0.9474,
             "elevation": 54.9,
             "elevationUnit": "METERS",
@@ -7353,6 +7342,17 @@
             "longitude": -116.13333,
             "maxdate": "1975-10-01",
             "mindate": "1942-07-01",
+            "name": "OCOTILLO WELLS, CA US"
+        },
+        {
+            "datacoverage": 0.6635,
+            "elevation": 54.9,
+            "elevationUnit": "METERS",
+            "id": "GHCND:USC00046383",
+            "latitude": 33.15,
+            "longitude": -116.13333,
+            "maxdate": "1975-06-30",
+            "mindate": "1932-03-01",
             "name": "OCOTILLO WELLS, CA US"
         },
         {
@@ -7414,17 +7414,6 @@
             "datacoverage": 1,
             "elevation": 8.5,
             "elevationUnit": "METERS",
-            "id": "WBAN:53121",
-            "latitude": 33.21944,
-            "longitude": -117.34944,
-            "maxdate": "2020-11-22",
-            "mindate": "2005-01-01",
-            "name": "OCEANSIDE MUNICIPAL AIRPORT, CA US"
-        },
-        {
-            "datacoverage": 1,
-            "elevation": 8.5,
-            "elevationUnit": "METERS",
             "id": "GHCND:USW00053121",
             "latitude": 33.21944,
             "longitude": -117.34944,
@@ -7434,14 +7423,14 @@
         },
         {
             "datacoverage": 1,
-            "elevation": 3,
+            "elevation": 8.5,
             "elevationUnit": "METERS",
-            "id": "GHCND:USC00046377",
-            "latitude": 33.2097,
-            "longitude": -117.395,
-            "maxdate": "2020-11-02",
-            "mindate": "1909-10-01",
-            "name": "OCEANSIDE MARINA, CA US"
+            "id": "WBAN:53121",
+            "latitude": 33.21944,
+            "longitude": -117.34944,
+            "maxdate": "2020-11-22",
+            "mindate": "2005-01-01",
+            "name": "OCEANSIDE MUNICIPAL AIRPORT, CA US"
         },
         {
             "datacoverage": 0.9842,
@@ -7452,6 +7441,17 @@
             "longitude": -117.395,
             "maxdate": "2015-11-01",
             "mindate": "1953-01-01",
+            "name": "OCEANSIDE MARINA, CA US"
+        },
+        {
+            "datacoverage": 1,
+            "elevation": 3,
+            "elevationUnit": "METERS",
+            "id": "GHCND:USC00046377",
+            "latitude": 33.2097,
+            "longitude": -117.395,
+            "maxdate": "2020-11-02",
+            "mindate": "1909-10-01",
             "name": "OCEANSIDE MARINA, CA US"
         },
         {
@@ -7532,17 +7532,6 @@
             "name": "OCEANSIDE 2.2ENE, CA US"
         },
         {
-            "datacoverage": 1,
-            "elevation": 263.7,
-            "elevationUnit": "METERS",
-            "id": "GHCND:USC00046370",
-            "latitude": 38.3858,
-            "longitude": -122.9661,
-            "maxdate": "2020-11-22",
-            "mindate": "1943-01-01",
-            "name": "OCCIDENTAL, CA US"
-        },
-        {
             "datacoverage": 0.9824,
             "elevation": 263.7,
             "elevationUnit": "METERS",
@@ -7551,6 +7540,17 @@
             "longitude": -122.9661,
             "maxdate": "2015-11-01",
             "mindate": "1940-05-01",
+            "name": "OCCIDENTAL, CA US"
+        },
+        {
+            "datacoverage": 1,
+            "elevation": 263.7,
+            "elevationUnit": "METERS",
+            "id": "GHCND:USC00046370",
+            "latitude": 38.3858,
+            "longitude": -122.9661,
+            "maxdate": "2020-11-22",
+            "mindate": "1943-01-01",
             "name": "OCCIDENTAL, CA US"
         },
         {
@@ -7642,6 +7642,17 @@
             "name": "OCCIDENTAL 1.6 ESE, CA US"
         },
         {
+            "datacoverage": 0.896,
+            "elevation": 513.6,
+            "elevationUnit": "METERS",
+            "id": "COOP:046354",
+            "latitude": 38.4,
+            "longitude": -122.46667,
+            "maxdate": "1963-10-01",
+            "mindate": "1943-05-01",
+            "name": "OAKVILLE 4 SW N0 2, CA US"
+        },
+        {
             "datacoverage": 0.9744,
             "elevation": 513.6,
             "elevationUnit": "METERS",
@@ -7664,15 +7675,15 @@
             "name": "OAKVILLE 4 SW N0 2, CA US"
         },
         {
-            "datacoverage": 0.896,
-            "elevation": 513.6,
+            "datacoverage": 0.9006,
+            "elevation": 49.1,
             "elevationUnit": "METERS",
-            "id": "COOP:046354",
-            "latitude": 38.4,
-            "longitude": -122.46667,
-            "maxdate": "1963-10-01",
-            "mindate": "1943-05-01",
-            "name": "OAKVILLE 4 SW N0 2, CA US"
+            "id": "COOP:046351",
+            "latitude": 38.45,
+            "longitude": -122.41667,
+            "maxdate": "1981-06-01",
+            "mindate": "1948-01-01",
+            "name": "OAKVILLE 1 W, CA US"
         },
         {
             "datacoverage": 0.4872,
@@ -7683,17 +7694,6 @@
             "longitude": -122.41667,
             "maxdate": "1981-06-30",
             "mindate": "1906-04-01",
-            "name": "OAKVILLE 1 W, CA US"
-        },
-        {
-            "datacoverage": 0.9006,
-            "elevation": 49.1,
-            "elevationUnit": "METERS",
-            "id": "COOP:046351",
-            "latitude": 38.45,
-            "longitude": -122.41667,
-            "maxdate": "1981-06-01",
-            "mindate": "1948-01-01",
             "name": "OAKVILLE 1 W, CA US"
         },
         {
@@ -7763,17 +7763,6 @@
             "name": "OAKLAND NAS, CA US"
         },
         {
-            "datacoverage": 1,
-            "elevation": 9.1,
-            "elevationUnit": "METERS",
-            "id": "GHCND:USC00046336",
-            "latitude": 37.7983,
-            "longitude": -122.2642,
-            "maxdate": "2020-11-22",
-            "mindate": "1970-10-01",
-            "name": "OAKLAND MUSEUM, CA US"
-        },
-        {
             "datacoverage": 0.9686,
             "elevation": 9.1,
             "elevationUnit": "METERS",
@@ -7786,14 +7775,14 @@
         },
         {
             "datacoverage": 1,
-            "elevation": 1.8,
+            "elevation": 9.1,
             "elevationUnit": "METERS",
-            "id": "GHCND:USW00023230",
-            "latitude": 37.7214,
-            "longitude": -122.2208,
+            "id": "GHCND:USC00046336",
+            "latitude": 37.7983,
+            "longitude": -122.2642,
             "maxdate": "2020-11-22",
-            "mindate": "1948-01-01",
-            "name": "OAKLAND METROPOLITAN, CA US"
+            "mindate": "1970-10-01",
+            "name": "OAKLAND MUSEUM, CA US"
         },
         {
             "datacoverage": 0.92,
@@ -7804,6 +7793,17 @@
             "longitude": -122.2208,
             "maxdate": "2020-11-22",
             "mindate": "1943-01-01",
+            "name": "OAKLAND METROPOLITAN, CA US"
+        },
+        {
+            "datacoverage": 1,
+            "elevation": 1.8,
+            "elevationUnit": "METERS",
+            "id": "GHCND:USW00023230",
+            "latitude": 37.7214,
+            "longitude": -122.2208,
+            "maxdate": "2020-11-22",
+            "mindate": "1948-01-01",
             "name": "OAKLAND METROPOLITAN, CA US"
         },
         {
@@ -7939,17 +7939,6 @@
             "name": "OAKHURST 0.9 SSE, CA US"
         },
         {
-            "datacoverage": 0.9339,
-            "elevation": 67.1,
-            "elevationUnit": "METERS",
-            "id": "GHCND:USC00046305",
-            "latitude": 37.86667,
-            "longitude": -120.86667,
-            "maxdate": "1967-12-31",
-            "mindate": "1906-03-01",
-            "name": "OAKDALE WOODWARD DAM, CA US"
-        },
-        {
             "datacoverage": 0.9865,
             "elevation": 67.1,
             "elevationUnit": "METERS",
@@ -7958,6 +7947,17 @@
             "longitude": -120.86667,
             "maxdate": "1967-12-01",
             "mindate": "1931-01-01",
+            "name": "OAKDALE WOODWARD DAM, CA US"
+        },
+        {
+            "datacoverage": 0.9339,
+            "elevation": 67.1,
+            "elevationUnit": "METERS",
+            "id": "GHCND:USC00046305",
+            "latitude": 37.86667,
+            "longitude": -120.86667,
+            "maxdate": "1967-12-31",
+            "mindate": "1906-03-01",
             "name": "OAKDALE WOODWARD DAM, CA US"
         },
         {
@@ -8016,17 +8016,6 @@
             "name": "OAK MOUNTAIN CALIFORNIA, CA US"
         },
         {
-            "datacoverage": 0.6097,
-            "elevation": 603.5,
-            "elevationUnit": "METERS",
-            "id": "COOP:046328",
-            "latitude": 41.8391,
-            "longitude": -122.8502,
-            "maxdate": "2015-11-01",
-            "mindate": "1942-04-01",
-            "name": "OAK KNOLL W. C., CA US"
-        },
-        {
             "datacoverage": 1,
             "elevation": 603.5,
             "elevationUnit": "METERS",
@@ -8038,15 +8027,15 @@
             "name": "OAK KNOLL W. C., CA US"
         },
         {
-            "datacoverage": 1,
-            "elevation": 518.2,
+            "datacoverage": 0.6097,
+            "elevation": 603.5,
             "elevationUnit": "METERS",
-            "id": "GHCND:USC00046329",
-            "latitude": 41.85,
-            "longitude": -122.88333,
-            "maxdate": "2010-12-31",
-            "mindate": "1972-01-01",
-            "name": "OAK KNOLL R S NUMBER 2, CA US"
+            "id": "COOP:046328",
+            "latitude": 41.8391,
+            "longitude": -122.8502,
+            "maxdate": "2015-11-01",
+            "mindate": "1942-04-01",
+            "name": "OAK KNOLL W. C., CA US"
         },
         {
             "datacoverage": 0.9967,
@@ -8056,6 +8045,17 @@
             "latitude": 41.85,
             "longitude": -122.88333,
             "maxdate": "1998-01-01",
+            "mindate": "1972-01-01",
+            "name": "OAK KNOLL R S NUMBER 2, CA US"
+        },
+        {
+            "datacoverage": 1,
+            "elevation": 518.2,
+            "elevationUnit": "METERS",
+            "id": "GHCND:USC00046329",
+            "latitude": 41.85,
+            "longitude": -122.88333,
+            "maxdate": "2010-12-31",
             "mindate": "1972-01-01",
             "name": "OAK KNOLL R S NUMBER 2, CA US"
         },
@@ -8137,17 +8137,6 @@
             "name": "O BRIEN 5.6 SSW, CA US"
         },
         {
-            "datacoverage": 0.7949,
-            "elevation": 121.9,
-            "elevationUnit": "METERS",
-            "id": "GHCND:USC00046290",
-            "latitude": 38.13333,
-            "longitude": -122.71667,
-            "maxdate": "1951-09-30",
-            "mindate": "1948-07-01",
-            "name": "NOVATO 8 WNW, CA US"
-        },
-        {
             "datacoverage": 0.7559,
             "elevation": 121.9,
             "elevationUnit": "METERS",
@@ -8156,6 +8145,17 @@
             "longitude": -122.71667,
             "maxdate": "1996-12-01",
             "mindate": "1948-01-01",
+            "name": "NOVATO 8 WNW, CA US"
+        },
+        {
+            "datacoverage": 0.7949,
+            "elevation": 121.9,
+            "elevationUnit": "METERS",
+            "id": "GHCND:USC00046290",
+            "latitude": 38.13333,
+            "longitude": -122.71667,
+            "maxdate": "1951-09-30",
+            "mindate": "1948-07-01",
             "name": "NOVATO 8 WNW, CA US"
         },
         {
@@ -8228,22 +8228,22 @@
             "datacoverage": 1,
             "elevation": 275.5,
             "elevationUnit": "METERS",
-            "id": "COOP:046263",
+            "id": "GHCND:USC00046263",
             "latitude": 34.2447,
             "longitude": -118.525,
-            "maxdate": "2010-02-01",
-            "mindate": "1998-04-01",
+            "maxdate": "2016-03-01",
+            "mindate": "1998-01-01",
             "name": "NORTHRIDGE CAL STATE, CA US"
         },
         {
             "datacoverage": 1,
             "elevation": 275.5,
             "elevationUnit": "METERS",
-            "id": "GHCND:USC00046263",
+            "id": "COOP:046263",
             "latitude": 34.2447,
             "longitude": -118.525,
-            "maxdate": "2016-03-01",
-            "mindate": "1998-01-01",
+            "maxdate": "2010-02-01",
+            "mindate": "1998-04-01",
             "name": "NORTHRIDGE CAL STATE, CA US"
         },
         {
@@ -8382,10 +8382,10 @@
             "datacoverage": 1,
             "elevation": 110,
             "elevationUnit": "METERS",
-            "id": "GHCND:USC00046207",
+            "id": "COOP:046207",
             "latitude": 35.06667,
             "longitude": -120.5,
-            "maxdate": "1977-06-30",
+            "maxdate": "1977-06-01",
             "mindate": "1959-10-01",
             "name": "NIPOMO 2 NW, CA US"
         },
@@ -8393,10 +8393,10 @@
             "datacoverage": 1,
             "elevation": 110,
             "elevationUnit": "METERS",
-            "id": "COOP:046207",
+            "id": "GHCND:USC00046207",
             "latitude": 35.06667,
             "longitude": -120.5,
-            "maxdate": "1977-06-01",
+            "maxdate": "1977-06-30",
             "mindate": "1959-10-01",
             "name": "NIPOMO 2 NW, CA US"
         },
@@ -8456,17 +8456,6 @@
             "name": "NILAND 4 NE, CA US"
         },
         {
-            "datacoverage": 0.8489,
-            "elevation": 1229,
-            "elevationUnit": "METERS",
-            "id": "GHCND:USC00046196",
-            "latitude": 33.58333,
-            "longitude": -116.43333,
-            "maxdate": "1969-05-31",
-            "mindate": "1963-05-01",
-            "name": "NIGHTINGALE, CA US"
-        },
-        {
             "datacoverage": 0.9457,
             "elevation": 1229,
             "elevationUnit": "METERS",
@@ -8474,6 +8463,17 @@
             "latitude": 33.58333,
             "longitude": -116.43333,
             "maxdate": "1969-06-01",
+            "mindate": "1963-05-01",
+            "name": "NIGHTINGALE, CA US"
+        },
+        {
+            "datacoverage": 0.8489,
+            "elevation": 1229,
+            "elevationUnit": "METERS",
+            "id": "GHCND:USC00046196",
+            "latitude": 33.58333,
+            "longitude": -116.43333,
+            "maxdate": "1969-05-31",
             "mindate": "1963-05-01",
             "name": "NIGHTINGALE, CA US"
         },
@@ -8522,17 +8522,6 @@
             "name": "NICOLAUS NUMBER 2, CA US"
         },
         {
-            "datacoverage": 1,
-            "elevation": 3,
-            "elevationUnit": "METERS",
-            "id": "GHCND:USC00046175",
-            "latitude": 33.6031,
-            "longitude": -117.8836,
-            "maxdate": "2020-11-22",
-            "mindate": "1921-01-01",
-            "name": "NEWPORT BEACH HARBOR, CA US"
-        },
-        {
             "datacoverage": 0.9824,
             "elevation": 3,
             "elevationUnit": "METERS",
@@ -8541,6 +8530,17 @@
             "longitude": -117.8836,
             "maxdate": "2015-11-01",
             "mindate": "1931-01-01",
+            "name": "NEWPORT BEACH HARBOR, CA US"
+        },
+        {
+            "datacoverage": 1,
+            "elevation": 3,
+            "elevationUnit": "METERS",
+            "id": "GHCND:USC00046175",
+            "latitude": 33.6031,
+            "longitude": -117.8836,
+            "maxdate": "2020-11-22",
+            "mindate": "1921-01-01",
             "name": "NEWPORT BEACH HARBOR, CA US"
         },
         {
@@ -8555,17 +8555,6 @@
             "name": "NEWPORT BEACH 3.1 ESE, CA US"
         },
         {
-            "datacoverage": 1,
-            "elevation": 27.4,
-            "elevationUnit": "METERS",
-            "id": "GHCND:USC00046168",
-            "latitude": 37.2811,
-            "longitude": -121.0177,
-            "maxdate": "2020-09-30",
-            "mindate": "1902-01-01",
-            "name": "NEWMAN, CA US"
-        },
-        {
             "datacoverage": 0.9598,
             "elevation": 27.4,
             "elevationUnit": "METERS",
@@ -8577,15 +8566,15 @@
             "name": "NEWMAN, CA US"
         },
         {
-            "datacoverage": 0.9788,
-            "elevation": 426.7,
+            "datacoverage": 1,
+            "elevation": 27.4,
             "elevationUnit": "METERS",
-            "id": "GHCND:USC00046165",
-            "latitude": 34.36667,
-            "longitude": -118.56667,
-            "maxdate": "1997-04-30",
-            "mindate": "1989-07-01",
-            "name": "NEWHALL, CA US"
+            "id": "GHCND:USC00046168",
+            "latitude": 37.2811,
+            "longitude": -121.0177,
+            "maxdate": "2020-09-30",
+            "mindate": "1902-01-01",
+            "name": "NEWMAN, CA US"
         },
         {
             "datacoverage": 0.9894,
@@ -8599,15 +8588,15 @@
             "name": "NEWHALL, CA US"
         },
         {
-            "datacoverage": 0.9173,
-            "elevation": 409,
+            "datacoverage": 0.9788,
+            "elevation": 426.7,
             "elevationUnit": "METERS",
-            "id": "GHCND:USC00046164",
+            "id": "GHCND:USC00046165",
             "latitude": 34.36667,
-            "longitude": -118.51667,
-            "maxdate": "1951-09-30",
-            "mindate": "1949-10-01",
-            "name": "NEWHALL US RANGER STATION, CA US"
+            "longitude": -118.56667,
+            "maxdate": "1997-04-30",
+            "mindate": "1989-07-01",
+            "name": "NEWHALL, CA US"
         },
         {
             "datacoverage": 0.9173,
@@ -8621,15 +8610,15 @@
             "name": "NEWHALL US RANGER STATION, CA US"
         },
         {
-            "datacoverage": 1,
-            "elevation": 375.8,
+            "datacoverage": 0.9173,
+            "elevation": 409,
             "elevationUnit": "METERS",
-            "id": "GHCND:USC00046162",
-            "latitude": 34.3869,
-            "longitude": -118.5341,
-            "maxdate": "2010-12-31",
-            "mindate": "1906-03-01",
-            "name": "NEWHALL S FC32CE, CA US"
+            "id": "GHCND:USC00046164",
+            "latitude": 34.36667,
+            "longitude": -118.51667,
+            "maxdate": "1951-09-30",
+            "mindate": "1949-10-01",
+            "name": "NEWHALL US RANGER STATION, CA US"
         },
         {
             "datacoverage": 0.9507,
@@ -8644,14 +8633,14 @@
         },
         {
             "datacoverage": 1,
-            "elevation": 370,
+            "elevation": 375.8,
             "elevationUnit": "METERS",
-            "id": "GHCND:USW00023180",
-            "latitude": 34.4,
-            "longitude": -118.55,
-            "maxdate": "1949-08-26",
-            "mindate": "1948-01-01",
-            "name": "NEWHALL AIRPORT, CA US"
+            "id": "GHCND:USC00046162",
+            "latitude": 34.3869,
+            "longitude": -118.5341,
+            "maxdate": "2010-12-31",
+            "mindate": "1906-03-01",
+            "name": "NEWHALL S FC32CE, CA US"
         },
         {
             "datacoverage": 0.7038,
@@ -8662,6 +8651,17 @@
             "longitude": -118.55,
             "maxdate": "1949-09-01",
             "mindate": "1941-07-01",
+            "name": "NEWHALL AIRPORT, CA US"
+        },
+        {
+            "datacoverage": 1,
+            "elevation": 370,
+            "elevationUnit": "METERS",
+            "id": "GHCND:USW00023180",
+            "latitude": 34.4,
+            "longitude": -118.55,
+            "maxdate": "1949-08-26",
+            "mindate": "1948-01-01",
             "name": "NEWHALL AIRPORT, CA US"
         },
         {
@@ -8709,17 +8709,6 @@
             "name": "NEWCASTLE 0.4 SSW, CA US"
         },
         {
-            "datacoverage": 0.8949,
-            "elevation": 238,
-            "elevationUnit": "METERS",
-            "id": "GHCND:USC00046149",
-            "latitude": 34.15,
-            "longitude": -118.96667,
-            "maxdate": "1971-01-31",
-            "mindate": "1956-01-01",
-            "name": "NEWBURY PARK 4 SW, CA US"
-        },
-        {
             "datacoverage": 0.9679,
             "elevation": 238,
             "elevationUnit": "METERS",
@@ -8727,6 +8716,17 @@
             "latitude": 34.15,
             "longitude": -118.96667,
             "maxdate": "1971-06-01",
+            "mindate": "1956-01-01",
+            "name": "NEWBURY PARK 4 SW, CA US"
+        },
+        {
+            "datacoverage": 0.8949,
+            "elevation": 238,
+            "elevationUnit": "METERS",
+            "id": "GHCND:USC00046149",
+            "latitude": 34.15,
+            "longitude": -118.96667,
+            "maxdate": "1971-01-31",
             "mindate": "1956-01-01",
             "name": "NEWBURY PARK 4 SW, CA US"
         },
@@ -8753,17 +8753,6 @@
             "name": "NEWBURY PARK 0.4 SE, CA US"
         },
         {
-            "datacoverage": 0.9842,
-            "elevation": 3,
-            "elevationUnit": "METERS",
-            "id": "COOP:046144",
-            "latitude": 37.5147,
-            "longitude": -122.0325,
-            "maxdate": "2015-11-01",
-            "mindate": "1942-04-01",
-            "name": "NEWARK, CA US"
-        },
-        {
             "datacoverage": 1,
             "elevation": 3,
             "elevationUnit": "METERS",
@@ -8772,6 +8761,17 @@
             "longitude": -122.0325,
             "maxdate": "2020-11-18",
             "mindate": "1906-01-01",
+            "name": "NEWARK, CA US"
+        },
+        {
+            "datacoverage": 0.9842,
+            "elevation": 3,
+            "elevationUnit": "METERS",
+            "id": "COOP:046144",
+            "latitude": 37.5147,
+            "longitude": -122.0325,
+            "maxdate": "2015-11-01",
+            "mindate": "1942-04-01",
             "name": "NEWARK, CA US"
         },
         {
@@ -8789,6 +8789,17 @@
             "datacoverage": 1,
             "elevation": 1613,
             "elevationUnit": "METERS",
+            "id": "COOP:046173",
+            "latitude": 41.98333,
+            "longitude": -120.26667,
+            "maxdate": "1961-05-01",
+            "mindate": "1960-10-01",
+            "name": "NEW PINE CREEK 2 E, CA US"
+        },
+        {
+            "datacoverage": 1,
+            "elevation": 1613,
+            "elevationUnit": "METERS",
             "id": "GHCND:USC00046173",
             "latitude": 41.98333,
             "longitude": -120.26667,
@@ -8798,14 +8809,14 @@
         },
         {
             "datacoverage": 1,
-            "elevation": 1613,
+            "elevation": 236.2,
             "elevationUnit": "METERS",
-            "id": "COOP:046173",
-            "latitude": 41.98333,
-            "longitude": -120.26667,
-            "maxdate": "1961-05-01",
-            "mindate": "1960-10-01",
-            "name": "NEW PINE CREEK 2 E, CA US"
+            "id": "GHCND:USC00046172",
+            "latitude": 37.95,
+            "longitude": -120.53333,
+            "maxdate": "2010-12-31",
+            "mindate": "1979-02-01",
+            "name": "NEW MELONES DAM, CA US"
         },
         {
             "datacoverage": 1,
@@ -8820,14 +8831,14 @@
         },
         {
             "datacoverage": 1,
-            "elevation": 236.2,
+            "elevation": 292.6,
             "elevationUnit": "METERS",
-            "id": "GHCND:USC00046172",
-            "latitude": 37.95,
-            "longitude": -120.53333,
-            "maxdate": "2010-12-31",
-            "mindate": "1979-02-01",
-            "name": "NEW MELONES DAM, CA US"
+            "id": "GHCND:USC00046174",
+            "latitude": 38.0047,
+            "longitude": -120.4863,
+            "maxdate": "2020-11-23",
+            "mindate": "1992-03-01",
+            "name": "NEW MELONES DAM HQ, CA US"
         },
         {
             "datacoverage": 0.9965,
@@ -8841,15 +8852,15 @@
             "name": "NEW MELONES DAM HQ, CA US"
         },
         {
-            "datacoverage": 1,
-            "elevation": 292.6,
+            "datacoverage": 0.9464,
+            "elevation": 658.4,
             "elevationUnit": "METERS",
-            "id": "GHCND:USC00046174",
-            "latitude": 38.0047,
-            "longitude": -120.4863,
-            "maxdate": "2020-11-23",
-            "mindate": "1992-03-01",
-            "name": "NEW MELONES DAM HQ, CA US"
+            "id": "COOP:046154",
+            "latitude": 34.9455,
+            "longitude": -119.6827,
+            "maxdate": "2015-11-01",
+            "mindate": "1973-12-01",
+            "name": "NEW CUYAMA FIRE STATION, CA US"
         },
         {
             "datacoverage": 1,
@@ -8860,17 +8871,6 @@
             "longitude": -119.6827,
             "maxdate": "2020-10-22",
             "mindate": "1974-01-01",
-            "name": "NEW CUYAMA FIRE STATION, CA US"
-        },
-        {
-            "datacoverage": 0.9464,
-            "elevation": 658.4,
-            "elevationUnit": "METERS",
-            "id": "COOP:046154",
-            "latitude": 34.9455,
-            "longitude": -119.6827,
-            "maxdate": "2015-11-01",
-            "mindate": "1973-12-01",
             "name": "NEW CUYAMA FIRE STATION, CA US"
         },
         {
@@ -8951,17 +8951,6 @@
             "name": "NEVADA CITY 1.7 SSE, CA US"
         },
         {
-            "datacoverage": 1,
-            "elevation": 869,
-            "elevationUnit": "METERS",
-            "id": "COOP:046139",
-            "latitude": 39.26667,
-            "longitude": -121.01667,
-            "maxdate": "1949-03-14",
-            "mindate": "1948-01-01",
-            "name": "NEVADA CITY 1 N, CA US"
-        },
-        {
             "datacoverage": 0.9998,
             "elevation": 869,
             "elevationUnit": "METERS",
@@ -8973,15 +8962,15 @@
             "name": "NEVADA CITY 1 N, CA US"
         },
         {
-            "datacoverage": 0.808,
-            "elevation": 880.9,
+            "datacoverage": 1,
+            "elevation": 869,
             "elevationUnit": "METERS",
-            "id": "COOP:046122",
-            "latitude": 34.8,
-            "longitude": -118.58333,
-            "maxdate": "1964-05-01",
-            "mindate": "1931-01-01",
-            "name": "NEENACH, CA US"
+            "id": "COOP:046139",
+            "latitude": 39.26667,
+            "longitude": -121.01667,
+            "maxdate": "1949-03-14",
+            "mindate": "1948-01-01",
+            "name": "NEVADA CITY 1 N, CA US"
         },
         {
             "datacoverage": 0.6396,
@@ -8995,15 +8984,15 @@
             "name": "NEENACH, CA US"
         },
         {
-            "datacoverage": 0.6522,
-            "elevation": 166.1,
+            "datacoverage": 0.808,
+            "elevation": 880.9,
             "elevationUnit": "METERS",
-            "id": "GHCND:USC00046119",
-            "latitude": 34.83333,
-            "longitude": -114.6,
-            "maxdate": "1979-08-31",
-            "mindate": "1977-10-01",
-            "name": "NEEDLES, CA US"
+            "id": "COOP:046122",
+            "latitude": 34.8,
+            "longitude": -118.58333,
+            "maxdate": "1964-05-01",
+            "mindate": "1931-01-01",
+            "name": "NEENACH, CA US"
         },
         {
             "datacoverage": 0.6522,
@@ -9039,14 +9028,25 @@
             "name": "NEEDLES, CA US"
         },
         {
-            "datacoverage": 0.9956,
+            "datacoverage": 0.6522,
+            "elevation": 166.1,
+            "elevationUnit": "METERS",
+            "id": "GHCND:USC00046119",
+            "latitude": 34.83333,
+            "longitude": -114.6,
+            "maxdate": "1979-08-31",
+            "mindate": "1977-10-01",
+            "name": "NEEDLES, CA US"
+        },
+        {
+            "datacoverage": 0.73,
             "elevation": 271.3,
             "elevationUnit": "METERS",
-            "id": "COOP:046118",
+            "id": "WBAN:23179",
             "latitude": 34.7675,
             "longitude": -114.6188,
-            "maxdate": "2015-11-01",
-            "mindate": "1940-03-01",
+            "maxdate": "2020-11-22",
+            "mindate": "1948-11-01",
             "name": "NEEDLES AIRPORT, CA US"
         },
         {
@@ -9061,14 +9061,14 @@
             "name": "NEEDLES AIRPORT, CA US"
         },
         {
-            "datacoverage": 0.73,
+            "datacoverage": 0.9956,
             "elevation": 271.3,
             "elevationUnit": "METERS",
-            "id": "WBAN:23179",
+            "id": "COOP:046118",
             "latitude": 34.7675,
             "longitude": -114.6188,
-            "maxdate": "2020-11-22",
-            "mindate": "1948-11-01",
+            "maxdate": "2015-11-01",
+            "mindate": "1940-03-01",
             "name": "NEEDLES AIRPORT, CA US"
         },
         {
@@ -9083,17 +9083,6 @@
             "name": "NAVARRO 1 NW, CA US"
         },
         {
-            "datacoverage": 0.9833,
-            "elevation": 6.1,
-            "elevationUnit": "METERS",
-            "id": "COOP:046065",
-            "latitude": 38.3,
-            "longitude": -122.28333,
-            "maxdate": "1965-12-01",
-            "mindate": "1945-12-01",
-            "name": "NAPA, CA US"
-        },
-        {
             "datacoverage": 0.4926,
             "elevation": 6.1,
             "elevationUnit": "METERS",
@@ -9102,6 +9091,17 @@
             "longitude": -122.28333,
             "maxdate": "1965-12-31",
             "mindate": "1903-12-01",
+            "name": "NAPA, CA US"
+        },
+        {
+            "datacoverage": 0.9833,
+            "elevation": 6.1,
+            "elevationUnit": "METERS",
+            "id": "COOP:046065",
+            "latitude": 38.3,
+            "longitude": -122.28333,
+            "maxdate": "1965-12-01",
+            "mindate": "1945-12-01",
             "name": "NAPA, CA US"
         },
         {
@@ -9139,11 +9139,11 @@
             "datacoverage": 1,
             "elevation": 4.3,
             "elevationUnit": "METERS",
-            "id": "COOP:046066",
+            "id": "WBAN:93227",
             "latitude": 38.2102,
             "longitude": -122.2847,
-            "maxdate": "2015-11-01",
-            "mindate": "2000-09-01",
+            "maxdate": "2020-11-22",
+            "mindate": "2000-01-01",
             "name": "NAPA CO AIRPORT, CA US"
         },
         {
@@ -9161,11 +9161,11 @@
             "datacoverage": 1,
             "elevation": 4.3,
             "elevationUnit": "METERS",
-            "id": "WBAN:93227",
+            "id": "COOP:046066",
             "latitude": 38.2102,
             "longitude": -122.2847,
-            "maxdate": "2020-11-22",
-            "mindate": "2000-01-01",
+            "maxdate": "2015-11-01",
+            "mindate": "2000-09-01",
             "name": "NAPA CO AIRPORT, CA US"
         },
         {
@@ -9194,10 +9194,10 @@
             "datacoverage": 1,
             "elevation": 234.7,
             "elevationUnit": "METERS",
-            "id": "GHCND:USC00046056",
+            "id": "COOP:046056",
             "latitude": 35.76667,
             "longitude": -120.88333,
-            "maxdate": "1978-06-30",
+            "maxdate": "1978-06-01",
             "mindate": "1957-05-01",
             "name": "NACIMIENTO DAM, CA US"
         },
@@ -9205,10 +9205,10 @@
             "datacoverage": 1,
             "elevation": 234.7,
             "elevationUnit": "METERS",
-            "id": "COOP:046056",
+            "id": "GHCND:USC00046056",
             "latitude": 35.76667,
             "longitude": -120.88333,
-            "maxdate": "1978-06-01",
+            "maxdate": "1978-06-30",
             "mindate": "1957-05-01",
             "name": "NACIMIENTO DAM, CA US"
         },
@@ -9290,17 +9290,6 @@
             "name": "MURCELL RANCH, CA US"
         },
         {
-            "datacoverage": 1,
-            "elevation": 67.1,
-            "elevationUnit": "METERS",
-            "id": "GHCND:USC00046027",
-            "latitude": 37.8977,
-            "longitude": -122.5688,
-            "maxdate": "2020-09-30",
-            "mindate": "1940-12-01",
-            "name": "MUIR WOODS, CA US"
-        },
-        {
             "datacoverage": 0.9811,
             "elevation": 67.1,
             "elevationUnit": "METERS",
@@ -9308,6 +9297,17 @@
             "latitude": 37.8977,
             "longitude": -122.5688,
             "maxdate": "2015-11-01",
+            "mindate": "1940-12-01",
+            "name": "MUIR WOODS, CA US"
+        },
+        {
+            "datacoverage": 1,
+            "elevation": 67.1,
+            "elevationUnit": "METERS",
+            "id": "GHCND:USC00046027",
+            "latitude": 37.8977,
+            "longitude": -122.5688,
+            "maxdate": "2020-09-30",
             "mindate": "1940-12-01",
             "name": "MUIR WOODS, CA US"
         },
@@ -9345,17 +9345,6 @@
             "name": "MOUNTAIN REST CALIFORNIA, CA US"
         },
         {
-            "datacoverage": 0.9587,
-            "elevation": 1441.7,
-            "elevationUnit": "METERS",
-            "id": "COOP:045890",
-            "latitude": 35.47028,
-            "longitude": -115.54361,
-            "maxdate": "2007-04-01",
-            "mindate": "1955-02-01",
-            "name": "MOUNTAIN PASS, CA US"
-        },
-        {
             "datacoverage": 1,
             "elevation": 1441.7,
             "elevationUnit": "METERS",
@@ -9367,15 +9356,15 @@
             "name": "MOUNTAIN PASS, CA US"
         },
         {
-            "datacoverage": 1,
-            "elevation": 1456,
+            "datacoverage": 0.9587,
+            "elevation": 1441.7,
             "elevationUnit": "METERS",
-            "id": "GHCND:USC00045892",
-            "latitude": 35.45917,
-            "longitude": -115.53111,
-            "maxdate": "2013-04-04",
-            "mindate": "2006-11-01",
-            "name": "MOUNTAIN PASS 1 SE, CA US"
+            "id": "COOP:045890",
+            "latitude": 35.47028,
+            "longitude": -115.54361,
+            "maxdate": "2007-04-01",
+            "mindate": "1955-02-01",
+            "name": "MOUNTAIN PASS, CA US"
         },
         {
             "datacoverage": 0.9997,
@@ -9385,6 +9374,17 @@
             "latitude": 35.45917,
             "longitude": -115.53111,
             "maxdate": "2012-12-01",
+            "mindate": "2006-11-01",
+            "name": "MOUNTAIN PASS 1 SE, CA US"
+        },
+        {
+            "datacoverage": 1,
+            "elevation": 1456,
+            "elevationUnit": "METERS",
+            "id": "GHCND:USC00045892",
+            "latitude": 35.45917,
+            "longitude": -115.53111,
+            "maxdate": "2013-04-04",
             "mindate": "2006-11-01",
             "name": "MOUNTAIN PASS 1 SE, CA US"
         },
@@ -9455,14 +9455,14 @@
             "name": "MOUNT TOM CALIFORNIA, CA US"
         },
         {
-            "datacoverage": 0.0315,
+            "datacoverage": 1,
             "elevation": 446.5,
             "elevationUnit": "METERS",
-            "id": "COOP:045996",
+            "id": "COOP:045995",
             "latitude": 37.9027,
             "longitude": -122.6033,
-            "maxdate": "2014-01-01",
-            "mindate": "1959-06-01",
+            "maxdate": "1959-07-01",
+            "mindate": "1948-01-01",
             "name": "MOUNT TAMALPAIS 2 SW, CA US"
         },
         {
@@ -9477,26 +9477,15 @@
             "name": "MOUNT TAMALPAIS 2 SW, CA US"
         },
         {
-            "datacoverage": 1,
+            "datacoverage": 0.0315,
             "elevation": 446.5,
             "elevationUnit": "METERS",
-            "id": "COOP:045995",
+            "id": "COOP:045996",
             "latitude": 37.9027,
             "longitude": -122.6033,
-            "maxdate": "1959-07-01",
-            "mindate": "1948-01-01",
+            "maxdate": "2014-01-01",
+            "mindate": "1959-06-01",
             "name": "MOUNT TAMALPAIS 2 SW, CA US"
-        },
-        {
-            "datacoverage": 0.92,
-            "elevation": 1077.5,
-            "elevationUnit": "METERS",
-            "id": "WBAN:24215",
-            "latitude": 41.3325,
-            "longitude": -122.33278,
-            "maxdate": "2020-11-22",
-            "mindate": "1948-04-01",
-            "name": "MOUNT SHASTA, CA US"
         },
         {
             "datacoverage": 0.9681,
@@ -9507,6 +9496,17 @@
             "longitude": -122.31777,
             "maxdate": "2020-11-22",
             "mindate": "1948-01-01",
+            "name": "MOUNT SHASTA, CA US"
+        },
+        {
+            "datacoverage": 0.92,
+            "elevation": 1077.5,
+            "elevationUnit": "METERS",
+            "id": "WBAN:24215",
+            "latitude": 41.3325,
+            "longitude": -122.33278,
+            "maxdate": "2020-11-22",
+            "mindate": "1948-04-01",
             "name": "MOUNT SHASTA, CA US"
         },
         {
@@ -9631,17 +9631,6 @@
             "name": "MOUNT SAN JACINTO WS, CA US"
         },
         {
-            "datacoverage": 1,
-            "elevation": 548.9,
-            "elevationUnit": "METERS",
-            "id": "GHCND:USC00045973",
-            "latitude": 37.01667,
-            "longitude": -121.71667,
-            "maxdate": "1951-09-30",
-            "mindate": "1948-07-01",
-            "name": "MOUNT MADONNA, CA US"
-        },
-        {
             "datacoverage": 0.9783,
             "elevation": 548.9,
             "elevationUnit": "METERS",
@@ -9654,14 +9643,14 @@
         },
         {
             "datacoverage": 1,
-            "elevation": 1804.4,
+            "elevation": 548.9,
             "elevationUnit": "METERS",
-            "id": "GHCND:USC00045968",
-            "latitude": 32.8672,
-            "longitude": -116.4194,
-            "maxdate": "2020-11-09",
-            "mindate": "2003-11-01",
-            "name": "MOUNT LAGUNA NUMBER 3, CA US"
+            "id": "GHCND:USC00045973",
+            "latitude": 37.01667,
+            "longitude": -121.71667,
+            "maxdate": "1951-09-30",
+            "mindate": "1948-07-01",
+            "name": "MOUNT MADONNA, CA US"
         },
         {
             "datacoverage": 0.9725,
@@ -9671,6 +9660,17 @@
             "latitude": 32.8672,
             "longitude": -116.4194,
             "maxdate": "2015-11-01",
+            "mindate": "2003-11-01",
+            "name": "MOUNT LAGUNA NUMBER 3, CA US"
+        },
+        {
+            "datacoverage": 1,
+            "elevation": 1804.4,
+            "elevationUnit": "METERS",
+            "id": "GHCND:USC00045968",
+            "latitude": 32.8672,
+            "longitude": -116.4194,
+            "maxdate": "2020-11-09",
             "mindate": "2003-11-01",
             "name": "MOUNT LAGUNA NUMBER 3, CA US"
         },
@@ -9686,17 +9686,6 @@
             "name": "MOUNT LAGUNA CALIFORNIA, CA US"
         },
         {
-            "datacoverage": 0.9994,
-            "elevation": 1893.1,
-            "elevationUnit": "METERS",
-            "id": "COOP:045965",
-            "latitude": 32.86667,
-            "longitude": -116.41667,
-            "maxdate": "1949-10-08",
-            "mindate": "1948-01-01",
-            "name": "MOUNT LAGUNA CAA AIRPORT, CA US"
-        },
-        {
             "datacoverage": 1,
             "elevation": 1893.1,
             "elevationUnit": "METERS",
@@ -9704,6 +9693,17 @@
             "latitude": 32.86667,
             "longitude": -116.41667,
             "maxdate": "1949-11-20",
+            "mindate": "1948-01-01",
+            "name": "MOUNT LAGUNA CAA AIRPORT, CA US"
+        },
+        {
+            "datacoverage": 0.9994,
+            "elevation": 1893.1,
+            "elevationUnit": "METERS",
+            "id": "COOP:045965",
+            "latitude": 32.86667,
+            "longitude": -116.41667,
+            "maxdate": "1949-10-08",
             "mindate": "1948-01-01",
             "name": "MOUNT LAGUNA CAA AIRPORT, CA US"
         },
@@ -9730,17 +9730,6 @@
             "name": "MOUNT HEBRON RANGER STATION, CA US"
         },
         {
-            "datacoverage": 0.9034,
-            "elevation": 1335.9,
-            "elevationUnit": "METERS",
-            "id": "GHCND:USC00045940",
-            "latitude": 41.73333,
-            "longitude": -121.8,
-            "maxdate": "1960-12-31",
-            "mindate": "1952-05-01",
-            "name": "MOUNT HEBRON 11 ESE, CA US"
-        },
-        {
             "datacoverage": 0.9323,
             "elevation": 1335.9,
             "elevationUnit": "METERS",
@@ -9748,6 +9737,17 @@
             "latitude": 41.73333,
             "longitude": -121.8,
             "maxdate": "1960-12-01",
+            "mindate": "1952-05-01",
+            "name": "MOUNT HEBRON 11 ESE, CA US"
+        },
+        {
+            "datacoverage": 0.9034,
+            "elevation": 1335.9,
+            "elevationUnit": "METERS",
+            "id": "GHCND:USC00045940",
+            "latitude": 41.73333,
+            "longitude": -121.8,
+            "maxdate": "1960-12-31",
             "mindate": "1952-05-01",
             "name": "MOUNT HEBRON 11 ESE, CA US"
         },
@@ -9884,17 +9884,6 @@
             "name": "MOUNT BECKENRIDGE, CA US"
         },
         {
-            "datacoverage": 0.7792,
-            "elevation": 2361,
-            "elevationUnit": "METERS",
-            "id": "GHCND:USC00045901",
-            "latitude": 34.28333,
-            "longitude": -117.61667,
-            "maxdate": "1972-01-31",
-            "mindate": "1961-01-01",
-            "name": "MOUNT BALDY NOTCH, CA US"
-        },
-        {
             "datacoverage": 0.8343,
             "elevation": 2361,
             "elevationUnit": "METERS",
@@ -9906,14 +9895,25 @@
             "name": "MOUNT BALDY NOTCH, CA US"
         },
         {
-            "datacoverage": 1,
+            "datacoverage": 0.7792,
+            "elevation": 2361,
+            "elevationUnit": "METERS",
+            "id": "GHCND:USC00045901",
+            "latitude": 34.28333,
+            "longitude": -117.61667,
+            "maxdate": "1972-01-31",
+            "mindate": "1961-01-01",
+            "name": "MOUNT BALDY NOTCH, CA US"
+        },
+        {
+            "datacoverage": 0.902,
             "elevation": 1304.8,
             "elevationUnit": "METERS",
-            "id": "COOP:041373",
+            "id": "GHCND:USC00041373",
             "latitude": 34.23333,
             "longitude": -117.65,
-            "maxdate": "1958-06-01",
-            "mindate": "1931-01-01",
+            "maxdate": "1958-06-30",
+            "mindate": "1916-01-01",
             "name": "MOUNT BALDY FC 85 G, CA US"
         },
         {
@@ -9939,26 +9939,15 @@
             "name": "MOUNT BALDY FC 85 G, CA US"
         },
         {
-            "datacoverage": 0.902,
+            "datacoverage": 1,
             "elevation": 1304.8,
             "elevationUnit": "METERS",
-            "id": "GHCND:USC00041373",
+            "id": "COOP:041373",
             "latitude": 34.23333,
             "longitude": -117.65,
-            "maxdate": "1958-06-30",
-            "mindate": "1916-01-01",
+            "maxdate": "1958-06-01",
+            "mindate": "1931-01-01",
             "name": "MOUNT BALDY FC 85 G, CA US"
-        },
-        {
-            "datacoverage": 1,
-            "elevation": 36,
-            "elevationUnit": "METERS",
-            "id": "GHCND:USC00045866",
-            "latitude": 35.367,
-            "longitude": -120.8447,
-            "maxdate": "2020-09-30",
-            "mindate": "1959-01-01",
-            "name": "MORRO BAY FIRE DEPARTMENT, CA US"
         },
         {
             "datacoverage": 0.9942,
@@ -9973,14 +9962,14 @@
         },
         {
             "datacoverage": 1,
-            "elevation": 189,
+            "elevation": 36,
             "elevationUnit": "METERS",
-            "id": "COOP:045869",
-            "latitude": 35.41667,
-            "longitude": -120.85,
-            "maxdate": "1977-06-01",
-            "mindate": "1959-09-01",
-            "name": "MORRO BAY 3 N, CA US"
+            "id": "GHCND:USC00045866",
+            "latitude": 35.367,
+            "longitude": -120.8447,
+            "maxdate": "2020-09-30",
+            "mindate": "1959-01-01",
+            "name": "MORRO BAY FIRE DEPARTMENT, CA US"
         },
         {
             "datacoverage": 0.9907,
@@ -9994,15 +9983,15 @@
             "name": "MORRO BAY 3 N, CA US"
         },
         {
-            "datacoverage": 0.9309,
-            "elevation": 780.9,
+            "datacoverage": 1,
+            "elevation": 189,
             "elevationUnit": "METERS",
-            "id": "COOP:045863",
-            "latitude": 34.03333,
-            "longitude": -116.58333,
-            "maxdate": "1972-02-01",
-            "mindate": "1942-02-01",
-            "name": "MORONGO VALLEY, CA US"
+            "id": "COOP:045869",
+            "latitude": 35.41667,
+            "longitude": -120.85,
+            "maxdate": "1977-06-01",
+            "mindate": "1959-09-01",
+            "name": "MORRO BAY 3 N, CA US"
         },
         {
             "datacoverage": 0.7866,
@@ -10013,6 +10002,17 @@
             "longitude": -116.58333,
             "maxdate": "1972-02-29",
             "mindate": "1948-10-01",
+            "name": "MORONGO VALLEY, CA US"
+        },
+        {
+            "datacoverage": 0.9309,
+            "elevation": 780.9,
+            "elevationUnit": "METERS",
+            "id": "COOP:045863",
+            "latitude": 34.03333,
+            "longitude": -116.58333,
+            "maxdate": "1972-02-01",
+            "mindate": "1942-02-01",
             "name": "MORONGO VALLEY, CA US"
         },
         {
@@ -10049,17 +10049,6 @@
             "name": "MORMON ROCK CALIFORNIA, CA US"
         },
         {
-            "datacoverage": 1,
-            "elevation": 114.3,
-            "elevationUnit": "METERS",
-            "id": "GHCND:USC00045853",
-            "latitude": 37.1363,
-            "longitude": -121.6025,
-            "maxdate": "2016-03-01",
-            "mindate": "1948-07-01",
-            "name": "MORGAN HILL, CA US"
-        },
-        {
             "datacoverage": 0.2015,
             "elevation": 114.3,
             "elevationUnit": "METERS",
@@ -10068,6 +10057,17 @@
             "longitude": -121.6025,
             "maxdate": "2014-01-01",
             "mindate": "1948-01-01",
+            "name": "MORGAN HILL, CA US"
+        },
+        {
+            "datacoverage": 1,
+            "elevation": 114.3,
+            "elevationUnit": "METERS",
+            "id": "GHCND:USC00045853",
+            "latitude": 37.1363,
+            "longitude": -121.6025,
+            "maxdate": "2016-03-01",
+            "mindate": "1948-07-01",
             "name": "MORGAN HILL, CA US"
         },
         {
@@ -10080,6 +10080,17 @@
             "maxdate": "2020-11-02",
             "mindate": "2012-12-01",
             "name": "MORGAN HILL 6.4 NE, CA US"
+        },
+        {
+            "datacoverage": 0.8638,
+            "elevation": 195.1,
+            "elevationUnit": "METERS",
+            "id": "COOP:045847",
+            "latitude": 37.1,
+            "longitude": -121.75,
+            "maxdate": "1960-04-01",
+            "mindate": "1948-01-01",
+            "name": "MORGAN HILL 6 WSW, CA US"
         },
         {
             "datacoverage": 0.9744,
@@ -10101,17 +10112,6 @@
             "longitude": -121.75,
             "maxdate": "1975-09-01",
             "mindate": "1960-03-01",
-            "name": "MORGAN HILL 6 WSW, CA US"
-        },
-        {
-            "datacoverage": 0.8638,
-            "elevation": 195.1,
-            "elevationUnit": "METERS",
-            "id": "COOP:045847",
-            "latitude": 37.1,
-            "longitude": -121.75,
-            "maxdate": "1960-04-01",
-            "mindate": "1948-01-01",
             "name": "MORGAN HILL 6 WSW, CA US"
         },
         {
@@ -10170,17 +10170,6 @@
             "name": "MORGAN HILL 1.4 SW, CA US"
         },
         {
-            "datacoverage": 0.956,
-            "elevation": 937.3,
-            "elevationUnit": "METERS",
-            "id": "COOP:045840",
-            "latitude": 32.68167,
-            "longitude": -116.52083,
-            "maxdate": "2008-03-01",
-            "mindate": "1948-01-01",
-            "name": "MORENA DAM, CA US"
-        },
-        {
             "datacoverage": 0.1148,
             "elevation": 937.3,
             "elevationUnit": "METERS",
@@ -10189,6 +10178,17 @@
             "longitude": -116.52083,
             "maxdate": "1951-09-30",
             "mindate": "1896-08-01",
+            "name": "MORENA DAM, CA US"
+        },
+        {
+            "datacoverage": 0.956,
+            "elevation": 937.3,
+            "elevationUnit": "METERS",
+            "id": "COOP:045840",
+            "latitude": 32.68167,
+            "longitude": -116.52083,
+            "maxdate": "2008-03-01",
+            "mindate": "1948-01-01",
             "name": "MORENA DAM, CA US"
         },
         {
@@ -10203,17 +10203,6 @@
             "name": "MORAGA 2.4 NNW, CA US"
         },
         {
-            "datacoverage": 1,
-            "elevation": 177.1,
-            "elevationUnit": "METERS",
-            "id": "COOP:045823",
-            "latitude": 34.28333,
-            "longitude": -118.88333,
-            "maxdate": "1977-06-01",
-            "mindate": "1956-01-01",
-            "name": "MOORPARK, CA US"
-        },
-        {
             "datacoverage": 0.9924,
             "elevation": 177.1,
             "elevationUnit": "METERS",
@@ -10221,6 +10210,17 @@
             "latitude": 34.28333,
             "longitude": -118.88333,
             "maxdate": "1977-06-30",
+            "mindate": "1956-01-01",
+            "name": "MOORPARK, CA US"
+        },
+        {
+            "datacoverage": 1,
+            "elevation": 177.1,
+            "elevationUnit": "METERS",
+            "id": "COOP:045823",
+            "latitude": 34.28333,
+            "longitude": -118.88333,
+            "maxdate": "1977-06-01",
             "mindate": "1956-01-01",
             "name": "MOORPARK, CA US"
         },
@@ -10283,22 +10283,22 @@
             "datacoverage": 1,
             "elevation": 641,
             "elevationUnit": "METERS",
-            "id": "COOP:045809",
+            "id": "GHCND:USC00045809",
             "latitude": 40.81667,
             "longitude": -121.93333,
-            "maxdate": "1961-06-01",
-            "mindate": "1948-01-01",
+            "maxdate": "1951-09-30",
+            "mindate": "1948-07-01",
             "name": "MONTGOMERY CREEK 2 S, CA US"
         },
         {
             "datacoverage": 1,
             "elevation": 641,
             "elevationUnit": "METERS",
-            "id": "GHCND:USC00045809",
+            "id": "COOP:045809",
             "latitude": 40.81667,
             "longitude": -121.93333,
-            "maxdate": "1951-09-30",
-            "mindate": "1948-07-01",
+            "maxdate": "1961-06-01",
+            "mindate": "1948-01-01",
             "name": "MONTGOMERY CREEK 2 S, CA US"
         },
         {
@@ -10346,17 +10346,6 @@
             "name": "MONTEREY WEATHER FORECAST OFFICE, CA US"
         },
         {
-            "datacoverage": 1,
-            "elevation": 50.3,
-            "elevationUnit": "METERS",
-            "id": "WBAN:23259",
-            "latitude": 36.5881,
-            "longitude": -121.8453,
-            "maxdate": "2020-11-22",
-            "mindate": "2005-01-01",
-            "name": "MONTEREY PENINSUL AIRPORT, CA US"
-        },
-        {
             "datacoverage": 0.9995,
             "elevation": 50.3,
             "elevationUnit": "METERS",
@@ -10368,17 +10357,6 @@
             "name": "MONTEREY PENINSUL AIRPORT, CA US"
         },
         {
-            "datacoverage": 0.9998,
-            "elevation": 50.3,
-            "elevationUnit": "METERS",
-            "id": "COOP:045796",
-            "latitude": 36.5881,
-            "longitude": -121.8453,
-            "maxdate": "1977-12-01",
-            "mindate": "1972-10-01",
-            "name": "MONTEREY PENINSUL AIRPORT, CA US"
-        },
-        {
             "datacoverage": 1,
             "elevation": 50.3,
             "elevationUnit": "METERS",
@@ -10387,6 +10365,28 @@
             "longitude": -121.8453,
             "maxdate": "2020-11-22",
             "mindate": "1968-12-01",
+            "name": "MONTEREY PENINSUL AIRPORT, CA US"
+        },
+        {
+            "datacoverage": 1,
+            "elevation": 50.3,
+            "elevationUnit": "METERS",
+            "id": "WBAN:23259",
+            "latitude": 36.5881,
+            "longitude": -121.8453,
+            "maxdate": "2020-11-22",
+            "mindate": "2005-01-01",
+            "name": "MONTEREY PENINSUL AIRPORT, CA US"
+        },
+        {
+            "datacoverage": 0.9998,
+            "elevation": 50.3,
+            "elevationUnit": "METERS",
+            "id": "COOP:045796",
+            "latitude": 36.5881,
+            "longitude": -121.8453,
+            "maxdate": "1977-12-01",
+            "mindate": "1972-10-01",
             "name": "MONTEREY PENINSUL AIRPORT, CA US"
         },
         {
@@ -10456,17 +10456,6 @@
             "name": "MONTECITO CALIFORNIA, CA US"
         },
         {
-            "datacoverage": 1,
-            "elevation": 75,
-            "elevationUnit": "METERS",
-            "id": "GHCND:USC00045790",
-            "latitude": 34.0191,
-            "longitude": -118.1052,
-            "maxdate": "2011-02-26",
-            "mindate": "1979-01-01",
-            "name": "MONTEBELLO, CA US"
-        },
-        {
             "datacoverage": 0.9688,
             "elevation": 75,
             "elevationUnit": "METERS",
@@ -10474,6 +10463,17 @@
             "latitude": 34.0191,
             "longitude": -118.1052,
             "maxdate": "2010-12-01",
+            "mindate": "1979-01-01",
+            "name": "MONTEBELLO, CA US"
+        },
+        {
+            "datacoverage": 1,
+            "elevation": 75,
+            "elevationUnit": "METERS",
+            "id": "GHCND:USC00045790",
+            "latitude": 34.0191,
+            "longitude": -118.1052,
+            "maxdate": "2011-02-26",
             "mindate": "1979-01-01",
             "name": "MONTEBELLO, CA US"
         },
@@ -10522,17 +10522,6 @@
             "name": "MONTCLAIR 1.2 NE, CA US"
         },
         {
-            "datacoverage": 0.9986,
-            "elevation": 767.8,
-            "elevationUnit": "METERS",
-            "id": "GHCND:USW00024214",
-            "latitude": 41.73333,
-            "longitude": -122.55,
-            "maxdate": "1949-12-31",
-            "mindate": "1948-01-01",
-            "name": "MONTAGUE YREKA MUNICIPAL AIRPORT, CA US"
-        },
-        {
             "datacoverage": 1,
             "elevation": 767.8,
             "elevationUnit": "METERS",
@@ -10541,6 +10530,17 @@
             "longitude": -122.55,
             "maxdate": "1948-03-01",
             "mindate": "1931-01-01",
+            "name": "MONTAGUE YREKA MUNICIPAL AIRPORT, CA US"
+        },
+        {
+            "datacoverage": 0.9986,
+            "elevation": 767.8,
+            "elevationUnit": "METERS",
+            "id": "GHCND:USW00024214",
+            "latitude": 41.73333,
+            "longitude": -122.55,
+            "maxdate": "1949-12-31",
+            "mindate": "1948-01-01",
             "name": "MONTAGUE YREKA MUNICIPAL AIRPORT, CA US"
         },
         {
@@ -10591,17 +10591,6 @@
             "datacoverage": 1,
             "elevation": 171,
             "elevationUnit": "METERS",
-            "id": "COOP:045781",
-            "latitude": 34.15,
-            "longitude": -118,
-            "maxdate": "1953-11-01",
-            "mindate": "1952-10-01",
-            "name": "MONROVIA, CA US"
-        },
-        {
-            "datacoverage": 1,
-            "elevation": 171,
-            "elevationUnit": "METERS",
             "id": "GHCND:USC00045781",
             "latitude": 34.15,
             "longitude": -118,
@@ -10611,14 +10600,14 @@
         },
         {
             "datacoverage": 1,
-            "elevation": 1965.7,
+            "elevation": 171,
             "elevationUnit": "METERS",
-            "id": "COOP:045779",
-            "latitude": 38,
-            "longitude": -119.15,
-            "maxdate": "1988-02-01",
-            "mindate": "1950-10-01",
-            "name": "MONO LAKE, CA US"
+            "id": "COOP:045781",
+            "latitude": 34.15,
+            "longitude": -118,
+            "maxdate": "1953-11-01",
+            "mindate": "1952-10-01",
+            "name": "MONROVIA, CA US"
         },
         {
             "datacoverage": 0.8941,
@@ -10629,6 +10618,17 @@
             "longitude": -119.15,
             "maxdate": "1988-02-29",
             "mindate": "1944-01-01",
+            "name": "MONO LAKE, CA US"
+        },
+        {
+            "datacoverage": 1,
+            "elevation": 1965.7,
+            "elevationUnit": "METERS",
+            "id": "COOP:045779",
+            "latitude": 38,
+            "longitude": -119.15,
+            "maxdate": "1988-02-01",
+            "mindate": "1950-10-01",
             "name": "MONO LAKE, CA US"
         },
         {
@@ -10643,17 +10643,6 @@
             "name": "MONITOR PASS, CA US"
         },
         {
-            "datacoverage": 0.9101,
-            "elevation": 833.6,
-            "elevationUnit": "METERS",
-            "id": "COOP:045756",
-            "latitude": 35.0492,
-            "longitude": -118.1619,
-            "maxdate": "2015-11-01",
-            "mindate": "1940-11-01",
-            "name": "MOJAVE, CA US"
-        },
-        {
             "datacoverage": 1,
             "elevation": 833.6,
             "elevationUnit": "METERS",
@@ -10662,6 +10651,17 @@
             "longitude": -118.1619,
             "maxdate": "2020-08-07",
             "mindate": "1904-01-01",
+            "name": "MOJAVE, CA US"
+        },
+        {
+            "datacoverage": 0.9101,
+            "elevation": 833.6,
+            "elevationUnit": "METERS",
+            "id": "COOP:045756",
+            "latitude": 35.0492,
+            "longitude": -118.1619,
+            "maxdate": "2015-11-01",
+            "mindate": "1940-11-01",
             "name": "MOJAVE, CA US"
         },
         {
@@ -10789,22 +10789,22 @@
             "datacoverage": 1,
             "elevation": 22.3,
             "elevationUnit": "METERS",
-            "id": "WBAN:23258",
+            "id": "GHCND:USW00023258",
             "latitude": 37.6241,
             "longitude": -120.9505,
             "maxdate": "2020-11-22",
-            "mindate": "1973-01-01",
+            "mindate": "1906-01-01",
             "name": "MODESTO CITY CO AIRPORT, CA US"
         },
         {
             "datacoverage": 1,
             "elevation": 22.3,
             "elevationUnit": "METERS",
-            "id": "GHCND:USW00023258",
+            "id": "WBAN:23258",
             "latitude": 37.6241,
             "longitude": -120.9505,
             "maxdate": "2020-11-22",
-            "mindate": "1906-01-01",
+            "mindate": "1973-01-01",
             "name": "MODESTO CITY CO AIRPORT, CA US"
         },
         {
@@ -10819,17 +10819,6 @@
             "name": "MODESTO 4.1 NW, CA US"
         },
         {
-            "datacoverage": 1,
-            "elevation": 27.1,
-            "elevationUnit": "METERS",
-            "id": "GHCND:USC00045741",
-            "latitude": 37.6255,
-            "longitude": -121.0313,
-            "maxdate": "1951-09-30",
-            "mindate": "1948-07-01",
-            "name": "MODESTO 2, CA US"
-        },
-        {
             "datacoverage": 0.9783,
             "elevation": 27.1,
             "elevationUnit": "METERS",
@@ -10838,6 +10827,17 @@
             "longitude": -121.0313,
             "maxdate": "2014-01-01",
             "mindate": "1948-01-01",
+            "name": "MODESTO 2, CA US"
+        },
+        {
+            "datacoverage": 1,
+            "elevation": 27.1,
+            "elevationUnit": "METERS",
+            "id": "GHCND:USC00045741",
+            "latitude": 37.6255,
+            "longitude": -121.0313,
+            "maxdate": "1951-09-30",
+            "mindate": "1948-07-01",
             "name": "MODESTO 2, CA US"
         },
         {
@@ -10962,17 +10962,6 @@
             "name": "MIRANDA 4 SE, CA US"
         },
         {
-            "datacoverage": 1,
-            "elevation": 1485.9,
-            "elevationUnit": "METERS",
-            "id": "GHCND:USC00045679",
-            "latitude": 40.3458,
-            "longitude": -121.6091,
-            "maxdate": "2020-11-23",
-            "mindate": "1909-01-01",
-            "name": "MINERAL, CA US"
-        },
-        {
             "datacoverage": 0.9941,
             "elevation": 1485.9,
             "elevationUnit": "METERS",
@@ -10981,6 +10970,17 @@
             "longitude": -121.6091,
             "maxdate": "2015-11-01",
             "mindate": "1931-01-01",
+            "name": "MINERAL, CA US"
+        },
+        {
+            "datacoverage": 1,
+            "elevation": 1485.9,
+            "elevationUnit": "METERS",
+            "id": "GHCND:USC00045679",
+            "latitude": 40.3458,
+            "longitude": -121.6091,
+            "maxdate": "2020-11-23",
+            "mindate": "1909-01-01",
             "name": "MINERAL, CA US"
         },
         {
