@@ -1,0 +1,368 @@
+{
+    "metadata": {
+        "resultset": {
+            "count": 51,
+            "limit": 52,
+            "offset": 1
+        }
+    },
+    "results": [
+        {
+            "datacoverage": 1,
+            "id": "FIPS:01",
+            "maxdate": "2020-11-23",
+            "mindate": "1888-02-01",
+            "name": "Alabama"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:02",
+            "maxdate": "2020-11-23",
+            "mindate": "1893-09-01",
+            "name": "Alaska"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:04",
+            "maxdate": "2020-11-23",
+            "mindate": "1867-08-01",
+            "name": "Arizona"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:05",
+            "maxdate": "2020-11-23",
+            "mindate": "1871-07-01",
+            "name": "Arkansas"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:06",
+            "maxdate": "2020-11-23",
+            "mindate": "1850-10-01",
+            "name": "California"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:08",
+            "maxdate": "2020-11-23",
+            "mindate": "1852-10-01",
+            "name": "Colorado"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:09",
+            "maxdate": "2020-11-23",
+            "mindate": "1884-11-01",
+            "name": "Connecticut"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:10",
+            "maxdate": "2020-11-22",
+            "mindate": "1893-01-01",
+            "name": "Delaware"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:11",
+            "maxdate": "2020-11-22",
+            "mindate": "1870-11-01",
+            "name": "District of Columbia"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:12",
+            "maxdate": "2020-11-23",
+            "mindate": "1871-10-01",
+            "name": "Florida"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:13",
+            "maxdate": "2020-11-23",
+            "mindate": "1849-01-01",
+            "name": "Georgia"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:15",
+            "maxdate": "2020-11-23",
+            "mindate": "1905-01-01",
+            "name": "Hawaii"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:16",
+            "maxdate": "2020-11-23",
+            "mindate": "1892-06-01",
+            "name": "Idaho"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:17",
+            "maxdate": "2020-11-23",
+            "mindate": "1870-10-15",
+            "name": "Illinois"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:18",
+            "maxdate": "2020-11-23",
+            "mindate": "1886-02-01",
+            "name": "Indiana"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:19",
+            "maxdate": "2020-11-23",
+            "mindate": "1888-06-01",
+            "name": "Iowa"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:20",
+            "maxdate": "2020-11-23",
+            "mindate": "1857-04-01",
+            "name": "Kansas"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:21",
+            "maxdate": "2020-11-23",
+            "mindate": "1872-10-01",
+            "name": "Kentucky"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:22",
+            "maxdate": "2020-11-23",
+            "mindate": "1882-07-01",
+            "name": "Louisiana"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:23",
+            "maxdate": "2020-11-23",
+            "mindate": "1885-06-01",
+            "name": "Maine"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:24",
+            "maxdate": "2020-11-23",
+            "mindate": "1880-01-01",
+            "name": "Maryland"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:25",
+            "maxdate": "2020-11-23",
+            "mindate": "1831-02-01",
+            "name": "Massachusetts"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:26",
+            "maxdate": "2020-11-23",
+            "mindate": "1887-06-01",
+            "name": "Michigan"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:27",
+            "maxdate": "2020-11-23",
+            "mindate": "1886-01-01",
+            "name": "Minnesota"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:28",
+            "maxdate": "2020-11-23",
+            "mindate": "1891-01-01",
+            "name": "Mississippi"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:29",
+            "maxdate": "2020-11-23",
+            "mindate": "1892-01-01",
+            "name": "Missouri"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:30",
+            "maxdate": "2020-11-23",
+            "mindate": "1891-08-01",
+            "name": "Montana"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:31",
+            "maxdate": "2020-11-23",
+            "mindate": "1878-01-01",
+            "name": "Nebraska"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:32",
+            "maxdate": "2020-11-23",
+            "mindate": "1877-07-01",
+            "name": "Nevada"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:33",
+            "maxdate": "2020-11-23",
+            "mindate": "1868-01-01",
+            "name": "New Hampshire"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:34",
+            "maxdate": "2020-11-23",
+            "mindate": "1865-06-01",
+            "name": "New Jersey"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:35",
+            "maxdate": "2020-11-23",
+            "mindate": "1870-01-01",
+            "name": "New Mexico"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:36",
+            "maxdate": "2020-11-23",
+            "mindate": "1869-01-01",
+            "name": "New York"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:37",
+            "maxdate": "2020-11-23",
+            "mindate": "1869-03-01",
+            "name": "North Carolina"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:38",
+            "maxdate": "2020-11-23",
+            "mindate": "1891-07-01",
+            "name": "North Dakota"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:39",
+            "maxdate": "2020-11-23",
+            "mindate": "1878-02-01",
+            "name": "Ohio"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:40",
+            "maxdate": "2020-11-23",
+            "mindate": "1870-04-01",
+            "name": "Oklahoma"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:41",
+            "maxdate": "2020-11-23",
+            "mindate": "1871-11-01",
+            "name": "Oregon"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:42",
+            "maxdate": "2020-11-23",
+            "mindate": "1849-04-01",
+            "name": "Pennsylvania"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:44",
+            "maxdate": "2020-11-23",
+            "mindate": "1893-01-01",
+            "name": "Rhode Island"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:45",
+            "maxdate": "2020-11-23",
+            "mindate": "1849-05-01",
+            "name": "South Carolina"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:46",
+            "maxdate": "2020-11-23",
+            "mindate": "1893-01-01",
+            "name": "South Dakota"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:47",
+            "maxdate": "2020-11-23",
+            "mindate": "1879-01-01",
+            "name": "Tennessee"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:48",
+            "maxdate": "2020-11-23",
+            "mindate": "1852-04-01",
+            "name": "Texas"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:49",
+            "maxdate": "2020-11-23",
+            "mindate": "1887-12-01",
+            "name": "Utah"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:50",
+            "maxdate": "2020-11-23",
+            "mindate": "1883-12-01",
+            "name": "Vermont"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:51",
+            "maxdate": "2020-11-23",
+            "mindate": "1869-01-01",
+            "name": "Virginia"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:53",
+            "maxdate": "2020-11-23",
+            "mindate": "1856-01-01",
+            "name": "Washington"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:54",
+            "maxdate": "2020-11-23",
+            "mindate": "1854-01-01",
+            "name": "West Virginia"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:55",
+            "maxdate": "2020-11-23",
+            "mindate": "1871-01-01",
+            "name": "Wisconsin"
+        },
+        {
+            "datacoverage": 1,
+            "id": "FIPS:56",
+            "maxdate": "2020-11-23",
+            "mindate": "1889-01-01",
+            "name": "Wyoming"
+        }
+    ]
+}
