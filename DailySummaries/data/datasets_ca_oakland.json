@@ -1,0 +1,35 @@
+{
+    "metadata": {
+        "resultset": {
+            "count": 3,
+            "limit": 25,
+            "offset": 1
+        }
+    },
+    "results": [
+        {
+            "datacoverage": 1,
+            "id": "GHCND",
+            "maxdate": "2020-11-23",
+            "mindate": "1763-01-01",
+            "name": "Daily Summaries",
+            "uid": "gov.noaa.ncdc:C00861"
+        },
+        {
+            "datacoverage": 1,
+            "id": "GSOM",
+            "maxdate": "2020-11-01",
+            "mindate": "1763-01-01",
+            "name": "Global Summary of the Month",
+            "uid": "gov.noaa.ncdc:C00946"
+        },
+        {
+            "datacoverage": 1,
+            "id": "GSOY",
+            "maxdate": "2020-01-01",
+            "mindate": "1763-01-01",
+            "name": "Global Summary of the Year",
+            "uid": "gov.noaa.ncdc:C00947"
+        }
+    ]
+}
